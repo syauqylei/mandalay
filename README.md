@@ -8,3 +8,13 @@
 7. SESSION / tentang login loginan
 8. MVP - FITUR UNGGULAN YANG MEMBEDAKAN PROJECT KALIAN DGN PROJECT LAIN / TEKNOLOGI YG BLM PERNAH DIAJARIN
   - node-arxiv https://github.com/spro/node-arxiv#readme
+
+
+tema = app untuk ngetrack history baca kita,
+        bahan bacaan nya paper-paper gratis dari ARXIV
+        mengunakann api wrapper node-arxiv
+
+-listreader
+-listpapers
+-listaurhors
+
