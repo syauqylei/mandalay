@@ -16,7 +16,9 @@ module.exports = (sequelize, DataTypes) => {
     }
   };
   Readers.init({
-    name: DataTypes.STRING,
+    first_name: DataTypes.STRING,
+    last_name: DataTypes.STRING,
+    gender: DataTypes.STRING,
     username: DataTypes.STRING,
     password: DataTypes.STRING,
     email: DataTypes.STRING
