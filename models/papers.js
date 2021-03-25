@@ -20,7 +20,7 @@ module.exports = (sequelize, DataTypes) => {
   Papers.init({
     title: DataTypes.STRING,
     url: DataTypes.STRING,
-    keywords: DataTypes.STRING,
+    categories: DataTypes.STRING,
     summary: DataTypes.STRING
   }, {
     sequelize,
