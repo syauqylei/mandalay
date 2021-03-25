@@ -29,6 +29,9 @@ app.get('/readers/:username/logout', (req,res) => {
   res.redirect('/');
 })
 
+app.use('/',router)
+
+
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`)
 })
