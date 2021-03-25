@@ -1,0 +1,954 @@
+[
+  {
+    "title": "Efficient DNA-driven nanocavities for approaching quasi-deterministic strong coupling to a few fluorophores",
+    "url": "http://arxiv.org/abs/2103.06748v1",
+    "categories": "physics.optics quant-ph",
+    "summary": "Strong coupling between light and matter is the foundation of promising quantum photonic devices such as deterministic single photon sources, single atom lasers and photonic quantum gates, which consist of an atom and a photonic cavity. Unlike atom-based systems, a strong coupling unit based on an emitter-plasmonic nanocavity system has the potential to bring these devices to the microchip scale at ambient conditions. However, efficiently and precisely positioning a single or a few emitters into a plasmonic nanocavity is challenging. In addition, placing a strong coupling unit on a designated substrate location is a demanding task. Here, fluorophore-modified DNA strands are utilized to drive the formation of particle-on-film plasmonic nanocavities and simultaneously integrate the fluorophores into the high field region of the nanocavities. High cavity yield and fluorophore coupling yield are demonstrated. This method is then combined with e-beam lithography to position the strong coupling units on designated locations of a substrate. Furthermore, the high correlation between electronic transition of the fluorophore and the cavity resonance is observed, implying more vibrational modes may be involved. Our system makes strong coupling units more practical on the microchip scale and at ambient conditions and provides a stable platform for investigating fluorophore-plasmonic nanocavity interaction.",
+    "createdAt": "2021-03-25T13:03:13.684Z",
+    "updatedAt": "2021-03-25T13:03:13.684Z"
+  },
+  {
+    "title": "Visualizing Robot Intent for Object Handovers with Augmented Reality",
+    "url": "http://arxiv.org/abs/2103.04055v1",
+    "categories": "cs.RO",
+    "summary": "Humans are very skillful in communicating their intent for when and where a handover would occur. On the other hand, even the state-of-the-art robotic implementations for handovers display a general lack of communication skills. We propose visualizing the internal state and intent of robots for Human-to-Robot Handovers using Augmented Reality. Specifically, we visualize 3D models of the object and the robotic gripper to communicate the robot's estimation of where the object is and the pose that the robot intends to grasp the object. We conduct a user study with 16 participants, in which each participant handed over a cube-shaped object to the robot 12 times. Results show that visualizing robot intent using augmented reality substantially improves the subjective experience of the users for handovers and decreases the time to transfer the object. Results also indicate that the benefits of augmented reality are still present even when the robot makes errors in localizing the object.",
+    "createdAt": "2021-03-25T13:03:13.684Z",
+    "updatedAt": "2021-03-25T13:03:13.684Z"
+  },
+  {
+    "title": "The Role of Distributional Overlap on the Precision Gain of Bounds for Generalization",
+    "url": "http://arxiv.org/abs/2101.09596v1",
+    "categories": "stat.ME",
+    "summary": "Over the past ten years, propensity score methods have made an important contribution to improving generalizations from studies that do not select samples randomly from a population of inference. However, these methods require assumptions and recent work has considered the role of bounding approaches that provide a range of treatment impact estimates that are consistent with the observable data. An important limitation to bound estimates is that they can be uninformatively wide. This has motivated research on the use of propensity score stratification to narrow bounds. This article assesses the role of distributional overlap in propensity scores on the effectiveness of stratification to tighten bounds. Using the results of two simulation studies and two case studies, I evaluate the relationship between distributional overlap and precision gain and discuss the implications when propensity score stratification is used as a method to improve precision in the bounding framework.",
+    "createdAt": "2021-03-25T13:03:13.684Z",
+    "updatedAt": "2021-03-25T13:03:13.684Z"
+  },
+  {
+    "title": "Impact of Band Structure on Wave Function Dissipation in Field Emission Resonance",
+    "url": "http://arxiv.org/abs/2012.14646v1",
+    "categories": "cond-mat.mtrl-sci cond-mat.mes-hall quant-ph",
+    "summary": "We demonstrated on Ag(111) and Ag(100) surfaces that the reciprocal of the field emission resonance (FER) linewidth, which is proportional to the mean lifetime of resonant electrons in FER, may vary with the electric field. The variation on Ag(111) was nearly smooth, whereas that on Ag(100) was sporadic and fluctuated remarkably. This drastic difference can be explained through their dissimilar projected bulk band structures and the ensemble interpretation of quantum mechanics, according to which all resonant electrons are governed by a single wave function. Ag(100) has an energy gap above its vacuum level, whereas Ag(111) does not. Consequently, the dissipation rate of the wave function, which is relevant to the FER linewidth, on Ag(111) was almost stable, whereas that on Ag(100) fluctuated. The fluctuation revealed that the quantum trapping effect and surface dipole layer on Ag(100) surface can be investigated through FER.",
+    "createdAt": "2021-03-25T13:03:13.684Z",
+    "updatedAt": "2021-03-25T13:03:13.684Z"
+  },
+  {
+    "title": "A new semi-supervised self-training method for lung cancer prediction",
+    "url": "http://arxiv.org/abs/2012.09472v1",
+    "categories": "eess.IV cs.CV cs.LG",
+    "summary": "Background and Objective: Early detection of lung cancer is crucial as it has high mortality rate with patients commonly present with the disease at stage 3 and above. There are only relatively few methods that simultaneously detect and classify nodules from computed tomography (CT) scans. Furthermore, very few studies have used semi-supervised learning for lung cancer prediction. This study presents a complete end-to-end scheme to detect and classify lung nodules using the state-of-the-art Self-training with Noisy Student method on a comprehensive CT lung screening dataset of around 4,000 CT scans. Methods: We used three datasets, namely LUNA16, LIDC and NLST, for this study. We first utilise a three-dimensional deep convolutional neural network model to detect lung nodules in the detection stage. The classification model known as Maxout Local-Global Network uses non-local networks to detect global features including shape features, residual blocks to detect local features including nodule texture, and a Maxout layer to detect nodule variations. We trained the first Self-training with Noisy Student model to predict lung cancer on the unlabelled NLST datasets. Then, we performed Mixup regularization to enhance our scheme and provide robustness to erroneous labels. Results and Conclusions: Our new Mixup Maxout Local-Global network achieves an AUC of 0.87 on 2,005 completely independent testing scans from the NLST dataset. Our new scheme significantly outperformed the next highest performing method at the 5% significance level using DeLong's test (p = 0.0001). This study presents a new complete end-to-end scheme to predict lung cancer using Self-training with Noisy Student combined with Mixup regularization. On a completely independent dataset of 2,005 scans, we achieved state-of-the-art performance even with more images as compared to other methods.",
+    "createdAt": "2021-03-25T13:03:13.684Z",
+    "updatedAt": "2021-03-25T13:03:13.684Z"
+  },
+  {
+    "title": "Identifying and tracking bubbles and drops in simulations: a toolbox for obtaining sizes, lineages, and breakup and coalescence statistics",
+    "url": "http://arxiv.org/abs/2011.07243v1",
+    "categories": "physics.flu-dyn cs.CE physics.ao-ph physics.comp-ph",
+    "summary": "Knowledge of bubble and drop size distributions in two-phase flows is important for characterizing a wide range of phenomena, including combustor ignition, sonar communication, and cloud formation. The physical mechanisms driving the background flow also drive the time evolution of these distributions. Accurate and robust identification and tracking algorithms for the dispersed phase are necessary to reliably measure this evolution and thereby quantify the underlying mechanisms in interface-resolving flow simulations. The identification of individual bubbles and drops traditionally relies on an algorithm used to identify connected regions. This traditional algorithm can be sensitive to the presence of spurious structures. A cost-effective refinement is proposed to maximize volume accuracy while minimizing the identification of spurious bubbles and drops. An accurate identification scheme is crucial for distinguishing bubble and drop pairs with large size ratios. The identified bubbles and drops need to be tracked in time to obtain breakup and coalescence statistics that characterize the evolution of the size distribution, including breakup and coalescence frequencies, and the probability distributions of parent and child bubble and drop sizes. An algorithm based on mass conservation is proposed to construct bubble and drop lineages using simulation snapshots that are not necessarily from consecutive time-steps. These lineages are then used to detect breakup and coalescence events, and obtain the desired statistics. Accurate identification of large-size-ratio bubble and drop pairs enables accurate detection of breakup and coalescence events over a large size range. Together, these algorithms enable insights into the mechanisms behind bubble and drop formation and evolution in flows of practical importance.",
+    "createdAt": "2021-03-25T13:03:13.684Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Autonomous Person-Specific Following Robot",
+    "url": "http://arxiv.org/abs/2010.08017v2",
+    "categories": "cs.RO",
+    "summary": "Following a specific user is a desired or even required capability for service robots in many human-robot collaborative applications. However, most existing person-following robots follow people without knowledge of who it is following. In this paper, we proposed an identity-specific person tracker, capable of tracking and identifying nearby people, to enable person-specific following. Our proposed method uses a Sequential Nearest Neighbour with Thresholding Selection algorithm we devised to fuse together an anonymous person tracker and a face recogniser. Experiment results comparing our proposed method with alternative approaches showed that our method achieves better performance in tracking and identifying people, as well as improved robot performance in following a target individual.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Multichannel Generative Language Model: Learning All Possible Factorizations Within and Across Channels",
+    "url": "http://arxiv.org/abs/2010.04438v1",
+    "categories": "cs.CL cs.LG stat.ML",
+    "summary": "A channel corresponds to a viewpoint or transformation of an underlying meaning. A pair of parallel sentences in English and French express the same underlying meaning, but through two separate channels corresponding to their languages. In this work, we present the Multichannel Generative Language Model (MGLM). MGLM is a generative joint distribution model over channels. MGLM marginalizes over all possible factorizations within and across all channels. MGLM endows flexible inference, including unconditional generation, conditional generation (where 1 channel is observed and other channels are generated), and partially observed generation (where incomplete observations are spread across all the channels). We experiment with the Multi30K dataset containing English, French, Czech, and German. We demonstrate experiments with unconditional, conditional, and partially conditional generation. We provide qualitative samples sampled unconditionally from the generative joint distribution. We also quantitatively analyze the quality-diversity trade-offs and find MGLM outperforms traditional bilingual discriminative models.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "A study on energy resolution of CANDLES detector",
+    "url": "http://arxiv.org/abs/2009.11509v2",
+    "categories": "physics.ins-det hep-ex nucl-ex",
+    "summary": "In a neutrinoless double-beta decay ($0\\nu\\beta\\beta$) experiment, energy resolution is important to distinguish between $0\\nu\\beta\\beta$ and background events. CAlcium fluoride for studies of Neutrino and Dark matters by Low Energy Spectrometer (CANDLES) discerns the $0\\nu\\beta\\beta$ of $^{48}$Ca using a CaF$_2$ scintillator as the detector and source. Photomultiplier tubes (PMTs) collect scintillation photons. At the Q-value of $^{48}$Ca, the current energy resolution (2.6%) exceeds the ideal statistical fluctuation of the number of photoelectrons (1.6%). Because of CaF$_2$'s long decay constant of 1000 ns, a signal integration within 4000 ns is used to calculate the energy. The baseline fluctuation ($\\sigma_{baseline}$) is accumulated in the signal integration, thus degrading the energy resolution. This paper studies $\\sigma_{baseline}$ in the CANDLES detector, which severely degrades the resolution by 1% at the Q-value of $^{48}$Ca. To avoid $\\sigma_{\\rm baseline}$, photon counting can be used to obtain the number of photoelectrons in each PMT; however, a significant photoelectron signal overlapping probability in each PMT causes missing photoelectrons in counting and reduces the energy resolution. \"Partial photon counting\" reduces $\\sigma_{baseline}$ and minimizes photoelectron loss. We obtain improved energy resolutions of 4.5-4.0% at 1460.8 keV ($\\gamma$-ray of $^{40}$K), and 3.3-2.9% at 2614.5 keV ($\\gamma$-ray of $^{208}$Tl). The energy resolution at the Q-value is estimated to be improved from 2.6% to 2.2%, and the detector sensitivity for the $0\\nu\\beta\\beta$ half-life of $^{48}$Ca can be improved by 1.09 times.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Bias Field Poses a Threat to DNN-based X-Ray Recognition",
+    "url": "http://arxiv.org/abs/2009.09247v1",
+    "categories": "eess.IV cs.CV cs.LG",
+    "summary": "The chest X-ray plays a key role in screening and diagnosis of many lung diseases including the COVID-19. More recently, many works construct deep neural networks (DNNs) for chest X-ray images to realize automated and efficient diagnosis of lung diseases. However, bias field caused by the improper medical image acquisition process widely exists in the chest X-ray images while the robustness of DNNs to the bias field is rarely explored, which definitely poses a threat to the X-ray-based automated diagnosis system. In this paper, we study this problem based on the recent adversarial attack and propose a brand new attack, i.e., the adversarial bias field attack where the bias field instead of the additive noise works as the adversarial perturbations for fooling the DNNs. This novel attack posts a key problem: how to locally tune the bias field to realize high attack success rate while maintaining its spatial smoothness to guarantee high realisticity. These two goals contradict each other and thus has made the attack significantly challenging. To overcome this challenge, we propose the adversarial-smooth bias field attack that can locally tune the bias field with joint smooth & adversarial constraints. As a result, the adversarial X-ray images can not only fool the DNNs effectively but also retain very high level of realisticity. We validate our method on real chest X-ray datasets with powerful DNNs, e.g., ResNet50, DenseNet121, and MobileNet, and show different properties to the state-of-the-art attacks in both image realisticity and attack transferability. Our method reveals the potential threat to the DNN-based X-ray automated diagnosis and can definitely benefit the development of bias-field-robust automated diagnosis system.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "The turbulent bubble break-up cascade. Part 2. Numerical simulations of breaking waves",
+    "url": "http://arxiv.org/abs/2009.04804v1",
+    "categories": "physics.flu-dyn physics.ao-ph",
+    "summary": "Breaking waves generate a distribution of bubble sizes that evolves over time. Knowledge of how this distribution evolves is of practical importance for maritime and climate studies. The analytical framework developed in Part 1 examined how this evolution is governed by the bubble-mass flux from large to small bubble sizes, which depends on the rate of break-up events and the distribution of child bubble sizes. These statistics are measured in Part 2 as ensemble-averaged functions of time by simulating ensembles of breaking waves, and identifying and tracking individual bubbles and their break-up events. The break-up dynamics are seen to be statistically unsteady, and two intervals with distinct characteristics were identified. In the first interval, the dissipation rate and bubble-mass flux are quasi-steady, and the theoretical analysis of Part 1 is supported by all observed statistics, including the expected -10/3 power-law exponent for the super-Hinze-scale size distribution. Strong locality is observed in the corresponding bubble-mass flux, supporting the presence of a super-Hinze-scale break-up cascade. In the second interval, the dissipation rate decays, and the bubble-mass flux increases as small- and intermediate-sized bubbles become more populous. This flux remains strongly local with cascade-like behaviour, but the dominant power-law exponent for the size distribution increases to -8/3 as small bubbles are also depleted more quickly. This suggests the emergence of different physical mechanisms during different phases of the breaking-wave evolution, although size-local break-up remains a dominant theme. Parts 1 and 2 present an analytical toolkit for population balance analysis in two-phase flows.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "WaveGrad: Estimating Gradients for Waveform Generation",
+    "url": "http://arxiv.org/abs/2009.00713v2",
+    "categories": "eess.AS cs.LG cs.SD stat.ML",
+    "summary": "This paper introduces WaveGrad, a conditional model for waveform generation which estimates gradients of the data density. The model is built on prior work on score matching and diffusion probabilistic models. It starts from a Gaussian white noise signal and iteratively refines the signal via a gradient-based sampler conditioned on the mel-spectrogram. WaveGrad offers a natural way to trade inference speed for sample quality by adjusting the number of refinement steps, and bridges the gap between non-autoregressive and autoregressive models in terms of audio quality. We find that it can generate high fidelity audio samples using as few as six iterations. Experiments reveal WaveGrad to generate high fidelity audio, outperforming adversarial non-autoregressive baselines and matching a strong likelihood-based autoregressive baseline using fewer sequential operations. Audio samples are available at https://wavegrad.github.io/.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "The turbulent bubble break-up cascade. Part 1. Theoretical developments",
+    "url": "http://arxiv.org/abs/2008.12883v1",
+    "categories": "physics.flu-dyn physics.ao-ph",
+    "summary": "Breaking waves entrain gas beneath the surface. The wave-breaking process energizes turbulent fluctuations that break bubbles in quick succession to generate a wide range of bubble sizes. Understanding this generation mechanism paves the way towards the development of predictive models for large-scale maritime and climate simulations. Garrett et al. (2000) suggested that super-Hinze-scale turbulent breakup transfers entrained gas from large to small bubble sizes in the manner of a cascade. We provide a theoretical basis for this bubble-mass cascade by appealing to how energy is transferred from large to small scales in the energy cascade central to single-phase turbulence theories. A bubble break-up cascade requires that break-up events predominantly transfer bubble mass from a certain bubble size to a slightly smaller size on average. This property is called locality. In this paper, we analytically quantify locality by extending the population balance equation in conservative form to derive the bubble-mass transfer rate from large to small sizes. Using our proposed measures of locality, we show that scalings relevant to turbulent bubbly flows, including those postulated by Garrett et al. (2000) and observed in breaking-wave experiments and simulations, are consistent with a strongly local transfer rate, where the influence of non-local contributions decays in a power-law fashion. These theoretical predictions are confirmed using numerical simulations in Part 2, revealing key physical aspects of the bubble break-up cascade phenomenology. Locality supports the universality of turbulent small-bubble break-up, which simplifies the development of subgrid-scale models to predict oceanic small-bubble statistics of practical importance.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Low background measurement in CANDLES-III for studying the neutrino-less double beta decay of $^{48}$Ca",
+    "url": "http://arxiv.org/abs/2008.09288v2",
+    "categories": "hep-ex nucl-ex physics.ins-det",
+    "summary": "We developed a CANDLES-III system to study the neutrino-less double beta (0$\\nu\\beta\\beta$) decay of $^{48}$Ca. The proposed system employs 96 CaF$_{2}$ scintillation crystals (305 kg) with natural Ca ($^{\\rm nat.}$Ca) isotope which corresponds 350\\,g of $^{48}$Ca. External backgrounds were rejected using a 4$\\pi$ active shield of a liquid scintillator surrounding the CaF$_2$ crystals. The internal backgrounds caused by the radioactive impurities within the CaF$_2$ crystals can be reduced effectively through analysis of the signal pulse shape. We analyzed the data obtained in the Kamioka underground for a live-time of 130.4\\,days to evaluate the feasibility of the low background measurement with the CANDLES-III detector. Using Monte Carlo simulations, we estimated the background rate from the radioactive impurities in the CaF$_{2}$ crystals and the rate of high energy $\\gamma$-rays caused by the (n, $\\gamma$) reactions induced by environmental neutrons. The expected background rate was in a good agreement with the measured rate, i.e., approximately 10$^{-3}$ events/keV/yr/(kg of $^{\\rm nat.}$Ca), in the 0$\\nu\\beta\\beta$ window. In conclusion, the background candidates were estimated properly by comparing the measured energy spectrum with the background simulations. With this measurement method, we performed the first search for 0$\\nu\\beta\\beta$ decay in a low background condition using a detector with a Ca isotope, in which the Ca present was not enriched, in a scale of hundreds of kg. The $^{48}$Ca isotope has a high potential for use in 0$\\nu\\beta\\beta$ decay search, and is expected to be useful for the development of a next-generation detector for highly sensitive measurements.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "RegionTrack: A Trace-based Sound and Complete Checker to Debug Transactional Atomicity Violations and Non-Serializable Traces",
+    "url": "http://arxiv.org/abs/2008.04479v2",
+    "categories": "cs.SE",
+    "summary": "Atomicity is a correctness criterion to reason about isolated code regions in a multithreaded program when they are executed concurrently. However, dynamic instances of these code regions, called transactions, may fail to behave atomically, resulting in transactional atomicity violations. Existing dynamic online atomicity checkers incur either false positives or false negatives in detecting transactions experiencing transactional atomicity violations. This paper proposes RegionTrack. RegionTrack tracks cross-thread dependences at the event, dynamic subregion, and transaction levels. It maintains both dynamic subregions within selected transactions and transactional happens-before relations through its novel timestamp propagation approach. We prove that RegionTrack is sound and complete in detecting both transactional atomicity violations and non-serializable traces. To the best of our knowledge, it is the first online technique that precisely captures the transitively closed set of happens-before relations over all conflicting events with respect to every running transaction for the above two kinds of issues. We have evaluated RegionTrack on 19 subjects of the DaCapo and the Java Grande Forum benchmarks. The empirical results confirm that RegionTrack precisely detected all those transactions which experienced transactional atomicity violations and identified all non-serializable traces. The overall results also show that RegionTrack incurred 1.10x and 1.08x lower memory and runtime overheads than Velodrome and 2.10x and 1.21x lower than Aerodrome, respectively. Moreover, it incurred 2.89x lower memory overhead than DoubleChecker. On average, Velodrome detected about 55% fewer violations than RegionTrack, which in turn reported about 3%-70% fewer violations than DoubleChecker.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Explicit Result on Equivalence of Rational Quadratic Forms Avoiding Primes",
+    "url": "http://arxiv.org/abs/2008.00850v1",
+    "categories": "math.NT",
+    "summary": "Given a pair of regular quadratic forms over $\\mathbb{Q}$ which are in the same genus and a finite set of primes $P$, we show that there is an effective way to determine a rational equivalence between these two quadratic forms which are integral over every prime in $P$. This answers one of the principal questions posed by Conway and Sloane in their book {\\em Sphere packings, lattices and groups}, Grundlehren der Mathematischen Wissenschaften [Fundamental Principles of Mathematical Sciences], Vol 290, Springer-Verlag, New York, 1999; page 402.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "WANA: Symbolic Execution of Wasm Bytecode for Cross-Platform Smart Contract Vulnerability Detection",
+    "url": "http://arxiv.org/abs/2007.15510v2",
+    "categories": "cs.SE D.2.5",
+    "summary": "Many popular blockchain platforms are supporting smart contracts for building decentralized applications. However, the vulnerabilities within smart contracts have led to serious financial loss to their end users. For the EOSIO blockchain platform, effective vulnerability detectors are still limited. Furthermore, existing vulnerability detection tools can only support one blockchain platform. In this work, we present WANA, a cross-platform smart contract vulnerability detection tool based on the symbolic execution of WebAssembly bytecode. Furthermore, WANA proposes a set of test oracles to detect the vulnerabilities in EOSIO and Ethereum smart contracts based on WebAssembly bytecode analysis. Our experimental analysis shows that WANA can effectively detect vulnerabilities in both EOSIO and Ethereum smart contracts with high efficiency.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "EOSFuzzer: Fuzzing EOSIO Smart Contracts for Vulnerability Detection",
+    "url": "http://arxiv.org/abs/2007.14903v3",
+    "categories": "cs.SE D.2.5",
+    "summary": "EOSIO is one typical public blockchain platform. It is scalable in terms of transaction speeds and has a growing ecosystem supporting smart contracts and decentralized applications. However, the vulnerabilities within the EOSIO smart contracts have led to serious attacks, which caused serious financial loss to its end users. In this work, we systematically analyzed three typical EOSIO smart contract vulnerabilities and their related attacks. Then we presented EOSFuzzer, a general black-box fuzzing framework to detect vulnerabilities within EOSIO smart contracts. In particular, EOSFuzzer proposed effective attacking scenarios and test oracles for EOSIO smart contract fuzzing. Our fuzzing experiment on 3963 EOSIO smart contracts shows that EOSFuzzer is both effective and efficient to detect EOSIO smart contract vulnerabilities with high accuracy.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Object Handovers: a Review for Robotics",
+    "url": "http://arxiv.org/abs/2007.12952v1",
+    "categories": "cs.RO cs.SY eess.SY",
+    "summary": "This article surveys the literature on human-robot object handovers. A handover is a collaborative joint action where an agent, the giver, gives an object to another agent, the receiver. The physical exchange starts when the receiver first contacts the object held by the giver and ends when the giver fully releases the object to the receiver. However, important cognitive and physical processes begin before the physical exchange, including initiating implicit agreement with respect to the location and timing of the exchange. From this perspective, we structure our review into the two main phases delimited by the aforementioned events: 1) a pre-handover phase, and 2) the physical exchange. We focus our analysis on the two actors (giver and receiver) and report the state of the art of robotic givers (robot-to-human handovers) and the robotic receivers (human-to-robot handovers). We report a comprehensive list of qualitative and quantitative metrics commonly used to assess the interaction. While focusing our review on the cognitive level (e.g., prediction, perception, motion planning, learning) and the physical level (e.g., motion, grasping, grip release) of the handover, we briefly discuss also the concepts of safety, social context, and ergonomics. We compare the behaviours displayed during human-to-human handovers to the state of the art of robotic assistants, and identify the major areas of improvement for robotic assistants to reach performance comparable to human interactions. Finally, we propose a minimal set of metrics that should be used in order to enable a fair comparison among the approaches.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Hermite reduction and a Waring's problem for integral quadratic forms over number fields",
+    "url": "http://arxiv.org/abs/2007.06454v2",
+    "categories": "math.NT 11E12, 11E25, 11E39",
+    "summary": "We generalize the Hermite-Korkin-Zolotarev (HKZ) reduction theory of positive definite quadratic forms over $\\mathbb Q$ and its balanced version introduced recently by Beli-Chan-Icaza-Liu to positive definite quadratic forms over a totally real number field $K$. We apply the balanced HKZ-reduction theory to study the growth of the {\\em $g$-invariants} of the ring of integers of $K$. More precisely, for each positive integer $n$, let $\\mathcal O$ be the ring of integers of $K$ and $g_{\\mathcal O}(n)$ be the smallest integer such that every sum of squares of $n$-ary $\\mathcal O$-linear forms must be a sum of $g_{\\mathcal O}(n)$ squares of $n$-ary $\\mathcal O$-linear forms. We show that when $K$ has class number 1, the growth of $g_{\\mathcal O}(n)$ is at most an exponential of $\\sqrt{n}$. This extends the recent result obtained by Beli-Chan-Icaza-Liu on the growth of $g_{\\mathbb Z}(n)$ and gives the first sub-exponential upper bound for $g_{\\mathcal O}(n)$ for rings of integers $\\mathcal O$ other than $\\mathbb Z$.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Supportive Actions for Manipulation in Human-Robot Coworker Teams",
+    "url": "http://arxiv.org/abs/2005.00769v1",
+    "categories": "cs.RO cs.AI",
+    "summary": "The increasing presence of robots alongside humans, such as in human-robot teams in manufacturing, gives rise to research questions about the kind of behaviors people prefer in their robot counterparts. We term actions that support interaction by reducing future interference with others as supportive robot actions and investigate their utility in a co-located manipulation scenario. We compare two robot modes in a shared table pick-and-place task: (1) Task-oriented: the robot only takes actions to further its own task objective and (2) Supportive: the robot sometimes prefers supportive actions to task-oriented ones when they reduce future goal-conflicts. Our experiments in simulation, using a simplified human model, reveal that supportive actions reduce the interference between agents, especially in more difficult tasks, but also cause the robot to take longer to complete the task. We implemented these modes on a physical robot in a user study where a human and a robot perform object placement on a shared table. Our results show that a supportive robot was perceived as a more favorable coworker by the human and also reduced interference with the human in the more difficult of two scenarios. However, it also took longer to complete the task highlighting an interesting trade-off between task-efficiency and human-preference that needs to be considered before designing robot behavior for close-proximity manipulation scenarios.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Non-Autoregressive Machine Translation with Latent Alignments",
+    "url": "http://arxiv.org/abs/2004.07437v3",
+    "categories": "cs.CL cs.LG",
+    "summary": "This paper presents two strong methods, CTC and Imputer, for non-autoregressive machine translation that model latent alignments with dynamic programming. We revisit CTC for machine translation and demonstrate that a simple CTC model can achieve state-of-the-art for single-step non-autoregressive machine translation, contrary to what prior work indicates. In addition, we adapt the Imputer model for non-autoregressive machine translation and demonstrate that Imputer with just 4 generation steps can match the performance of an autoregressive Transformer baseline. Our latent alignment models are simpler than many existing non-autoregressive translation baselines; for example, we do not require target length prediction or re-scoring with an autoregressive model. On the competitive WMT'14 En$\\rightarrow$De task, our CTC model achieves 25.7 BLEU with a single generation step, while Imputer achieves 27.5 BLEU with 2 generation steps, and 28.0 BLEU with 4 generation steps. This compares favourably to the autoregressive Transformer baseline at 27.8 BLEU.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "The energy calibration system for CANDLES using (n, γ) reaction",
+    "url": "http://arxiv.org/abs/2003.13404v1",
+    "categories": "physics.ins-det hep-ex nucl-ex",
+    "summary": "CAlcium fluoride for the study of Neutrinos and Dark matters by Low-energy Spectrometer (CANDLES) searches for neutrino-less double beta decay of $^{48}$Ca using a CaF$_2$ scintillator array. A high Q-value of $^{48}$Ca at 4,272 keV enabled us to achieve very low background condition, however, at the same it causes difficulties in calibrating the detector's Q-value region because of the absence of a standard high-energy $\\gamma$-ray source. Therefore, we have developed a novel calibration system based on $\\gamma$-ray emission by neutron capture on $^{28}$Si, $^{56}$Fe and $^{58}$Ni nuclei. In the paper, we report the development of the new calibration system as well as the results of energy calibration in CANDLES up to 9 MeV.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "On the exceptional sets of integral quadratic forms",
+    "url": "http://arxiv.org/abs/2003.11322v1",
+    "categories": "math.NT 11E12, 11E25",
+    "summary": "A collection $\\mathcal S$ of equivalence classes of positive definite integral quadratic forms in $n$ variables is called an $n$-exceptional set if there exists a positive definite integral quadratic form which represents all equivalence classes of positive definite integral quadratic forms in $n$ variables except those in $\\mathcal S$. We show that, among other results, for any given positive integers $m$ and $n$, there is always an $n$-exceptional set of size $m$ and there are only finitely many of them.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Imputer: Sequence Modelling via Imputation and Dynamic Programming",
+    "url": "http://arxiv.org/abs/2002.08926v2",
+    "categories": "eess.AS cs.CL cs.LG cs.SD",
+    "summary": "This paper presents the Imputer, a neural sequence model that generates output sequences iteratively via imputations. The Imputer is an iterative generative model, requiring only a constant number of generation steps independent of the number of input or output tokens. The Imputer can be trained to approximately marginalize over all possible alignments between the input and output sequences, and all possible generation orders. We present a tractable dynamic programming training algorithm, which yields a lower bound on the log marginal likelihood. When applied to end-to-end speech recognition, the Imputer outperforms prior non-autoregressive models and achieves competitive results to autoregressive models. On LibriSpeech test-other, the Imputer achieves 11.1 WER, outperforming CTC at 13.0 WER and seq2seq at 12.5 WER.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Adaptive strategy in differential evolution via explicit exploitation and exploration controls",
+    "url": "http://arxiv.org/abs/2002.00612v1",
+    "categories": "cs.NE",
+    "summary": "When introducing new strategies to the existing one, two key issues should be addressed. One is to efficiently distribute computational resources so that the appropriate strategy dominates. The other is to remedy or even eliminate the drawback of inappropriate strategies. Adaptation is a popular and efficient method for strategy adjustments and has been widely studied in the literature. Existing methods commonly involve the trials of multiple strategies and then reward better-performing one with more resources based on their previous performance. As a result, it may not efficiently address those two key issues. On the one hand, they are based on trial-and-error with inappropriate strategies consuming resources. On the other hand, since multiple strategies are involved in the trial, the inappropriate strategies could mislead the search. In this paper, we propose an adaptive differential evolution (DE) with explicit exploitation and exploration controls (Explicit adaptation DE, EaDE), which is the first attempt using offline knowledge to separate multiple strategies to exempt the optimization from trial-and-error. EaDE divides the evolution process into several SCSS (Selective-candidate with similarity selection) generations and adaptive generations. Exploitation and exploration needs are learned in the SCSS generations by a relatively balanced strategy. While in the adaptive generations, to meet these needs, two other alternative strategies, an exploitative one or an explorative one is employed. Experimental studies on 28 benchmark functions confirm the effectiveness of the proposed method.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Insertion-Deletion Transformer",
+    "url": "http://arxiv.org/abs/2001.05540v1",
+    "categories": "cs.LG cs.CL stat.ML",
+    "summary": "We propose the Insertion-Deletion Transformer, a novel transformer-based neural architecture and training method for sequence generation. The model consists of two phases that are executed iteratively, 1) an insertion phase and 2) a deletion phase. The insertion phase parameterizes a distribution of insertions on the current output hypothesis, while the deletion phase parameterizes a distribution of deletions over the current output hypothesis. The training method is a principled and simple algorithm, where the deletion model obtains its signal directly on-policy from the insertion model output. We demonstrate the effectiveness of our Insertion-Deletion Transformer on synthetic translation tasks, obtaining significant BLEU score improvement over an insertion-only model.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "SpecAugment on Large Scale Datasets",
+    "url": "http://arxiv.org/abs/1912.05533v1",
+    "categories": "eess.AS cs.CL cs.LG cs.SD",
+    "summary": "Recently, SpecAugment, an augmentation scheme for automatic speech recognition that acts directly on the spectrogram of input utterances, has shown to be highly effective in enhancing the performance of end-to-end networks on public datasets. In this paper, we demonstrate its effectiveness on tasks with large scale datasets by investigating its application to the Google Multidomain Dataset (Narayanan et al., 2018). We achieve improvement across all test domains by mixing raw training data augmented with SpecAugment and noise-perturbed training data when training the acoustic model. We also introduce a modification of SpecAugment that adapts the time mask size and/or multiplicity depending on the length of the utterance, which can potentially benefit large scale tasks. By using adaptive masking, we are able to further improve the performance of the Listen, Attend and Spell model on LibriSpeech to 2.2% WER on test-clean and 5.2% WER on test-other.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "An Empirical Study of Generation Order for Machine Translation",
+    "url": "http://arxiv.org/abs/1910.13437v1",
+    "categories": "cs.CL cs.LG",
+    "summary": "In this work, we present an empirical study of generation order for machine translation. Building on recent advances in insertion-based modeling, we first introduce a soft order-reward framework that enables us to train models to follow arbitrary oracle generation policies. We then make use of this framework to explore a large variety of generation orders, including uninformed orders, location-based orders, frequency-based orders, content-based orders, and model-based orders. Curiously, we find that for the WMT'14 English $\\to$ German translation task, order does not have a substantial impact on output quality, with unintuitive orderings such as alphabetical and shortest-first matching the performance of a standard Transformer. This demonstrates that traditional left-to-right generation is not strictly necessary to achieve high performance. On the other hand, results on the WMT'18 English $\\to$ Chinese task tend to vary more widely, suggesting that translation for less well-aligned language pairs may be more sensitive to generation order.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Big Bidirectional Insertion Representations for Documents",
+    "url": "http://arxiv.org/abs/1910.13034v1",
+    "categories": "cs.CL cs.LG",
+    "summary": "The Insertion Transformer is well suited for long form text generation due to its parallel generation capabilities, requiring $O(\\log_2 n)$ generation steps to generate $n$ tokens. However, modeling long sequences is difficult, as there is more ambiguity captured in the attention mechanism. This work proposes the Big Bidirectional Insertion Representations for Documents (Big BIRD), an insertion-based model for document-level translation tasks. We scale up the insertion-based models to long form documents. Our key contribution is introducing sentence alignment via sentence-positional embeddings between the source and target document. We show an improvement of +4.3 BLEU on the WMT'19 English$\\rightarrow$German document-level translation task compared with the Insertion Transformer baseline.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Bounds on Continuous Scott Rank",
+    "url": "http://arxiv.org/abs/1908.00179v1",
+    "categories": "math.LO",
+    "summary": "An analog of Nadel's effective bound for the continuous Scott rank of metric structures, developed by Ben Yaacov, Doucha, Nies, and Tsankov, will be established: Let $\\mathscr{L}$ be a language of continuous logic with code $\\hat{\\mathscr{L}}$. Let $\\Omega$ be a weak modulus of uniform continuity with code $\\hat{\\Omega}$. Let $\\mathcal{D}$ be a countable $\\mathscr{L}$-pre-structure. Let $\\bar{\\mathcal{D}}$ denote the completion structure of $\\mathcal{D}$. Then $\\mathrm{SR}_\\Omega(\\bar{D}) \\leq \\omega_1^{\\hat{\\mathscr{L}}\\oplus\\hat{\\Omega}\\oplus\\mathcal{D}}$, the Church-Kleene ordinal relative to $\\hat{\\mathscr{L}}\\oplus\\hat{\\Omega}\\oplus\\mathcal{D}$.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Scalar Quantizer Design for Two-Way Channels",
+    "url": "http://arxiv.org/abs/1907.07269v1",
+    "categories": "cs.IT math.IT",
+    "summary": "The problem of lossy transmission of correlated sources over memoryless two-way channels (TWCs) is considered. The objective is to develop a robust low delay and low complexity source-channel coding scheme without using error correction. A simple full-duplex channel optimized scalar quantization (COSQ) scheme that implicitly mitigates TWC interference is designed. Numerical results for sending Gaussian bivariate sources over binary additive-noise TWCs with either additive or multiplicative user interference show that, in terms of signal-to-distortion ratio performance, the proposed full-duplex COSQ scheme compares favourably with half-duplex COSQ.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Speaker-Targeted Audio-Visual Models for Speech Recognition in Cocktail-Party Environments",
+    "url": "http://arxiv.org/abs/1906.05962v1",
+    "categories": "eess.AS cs.CL cs.CV cs.SD",
+    "summary": "Speech recognition in cocktail-party environments remains a significant challenge for state-of-the-art speech recognition systems, as it is extremely difficult to extract an acoustic signal of an individual speaker from a background of overlapping speech with similar frequency and temporal characteristics. We propose the use of speaker-targeted acoustic and audio-visual models for this task. We complement the acoustic features in a hybrid DNN-HMM model with information of the target speaker's identity as well as visual features from the mouth region of the target speaker. Experimentation was performed using simulated cocktail-party data generated from the GRID audio-visual corpus by overlapping two speakers's speech on a single acoustic channel. Our audio-only baseline achieved a WER of 26.3%. The audio-visual model improved the WER to 4.4%. Introducing speaker identity information had an even more pronounced effect, improving the WER to 3.6%. Combining both approaches, however, did not significantly improve performance further. Our work demonstrates that speaker-targeted models can significantly improve the speech recognition in cocktail party environments.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Bounds on Scott Ranks of Some Polish Metric Spaces",
+    "url": "http://arxiv.org/abs/1906.04351v1",
+    "categories": "math.LO",
+    "summary": "If $\\mathcal{N}$ is a proper Polish metric space and $\\mathcal{M}$ is any countable dense submetric space of $\\mathcal{N}$, then the Scott rank of $\\mathcal{N}$ in the natural first order language of metric spaces is countable and in fact at most $\\omega_1^{\\mathcal{M}} + 1$, where $\\omega_1^{\\mathcal{M}}$ is the Church-Kleene ordinal of $\\mathcal{M}$ (construed as a subset of $\\omega$) which is the least ordinal with no presentation on $\\omega$ computable from $\\mathcal{M}$. If $\\mathcal{N}$ is a rigid Polish metric space and $\\mathcal{M}$ is any countable dense submetric space, then the Scott rank of $\\mathcal{N}$ is countable and in fact less than $\\omega_1^{\\mathcal{M}}$.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "An Introduction to Combinatorics of Determinacy",
+    "url": "http://arxiv.org/abs/1906.04344v2",
+    "categories": "math.LO",
+    "summary": "This article is an introduction to combinatorics under the axiom of determinacy with a focus on partition properties and infinity Borel codes.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "KERMIT: Generative Insertion-Based Modeling for Sequences",
+    "url": "http://arxiv.org/abs/1906.01604v1",
+    "categories": "cs.CL cs.LG stat.ML",
+    "summary": "We present KERMIT, a simple insertion-based approach to generative modeling for sequences and sequence pairs. KERMIT models the joint distribution and its decompositions (i.e., marginals and conditionals) using a single neural network and, unlike much prior work, does not rely on a prespecified factorization of the data distribution. During training, one can feed KERMIT paired data $(x, y)$ to learn the joint distribution $p(x, y)$, and optionally mix in unpaired data $x$ or $y$ to refine the marginals $p(x)$ or $p(y)$. During inference, we have access to the conditionals $p(x \\mid y)$ and $p(y \\mid x)$ in both directions. We can also sample from the joint distribution or the marginals. The model supports both serial fully autoregressive decoding and parallel partially autoregressive decoding, with the latter exhibiting an empirically logarithmic runtime. We demonstrate through experiments in machine translation, representation learning, and zero-shot cloze question answering that our unified approach is capable of matching or exceeding the performance of dedicated state-of-the-art systems across a wide range of tasks without the need for problem-specific architectural adaptation.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Lung Nodule Classification using Deep Local-Global Networks",
+    "url": "http://arxiv.org/abs/1904.10126v1",
+    "categories": "cs.CV cs.AI stat.ML",
+    "summary": "Purpose: Lung nodules have very diverse shapes and sizes, which makes classifying them as benign/malignant a challenging problem. In this paper, we propose a novel method to predict the malignancy of nodules that have the capability to analyze the shape and size of a nodule using a global feature extractor, as well as the density and structure of the nodule using a local feature extractor. Methods: We propose to use Residual Blocks with a 3x3 kernel size for local feature extraction, and Non-Local Blocks to extract the global features. The Non-Local Block has the ability to extract global features without using a huge number of parameters. The key idea behind the Non-Local Block is to apply matrix multiplications between features on the same feature maps. Results: We trained and validated the proposed method on the LIDC-IDRI dataset which contains 1,018 computed tomography (CT) scans. We followed a rigorous procedure for experimental setup namely, 10-fold cross-validation and ignored the nodules that had been annotated by less than 3 radiologists. The proposed method achieved state-of-the-art results with AUC=95.62%, while significantly outperforming other baseline methods. Conclusions: Our proposed Deep Local-Global network has the capability to accurately extract both local and global features. Our new method outperforms state-of-the-art architecture including Densenet and Resnet with transfer learning.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition",
+    "url": "http://arxiv.org/abs/1904.08779v3",
+    "categories": "eess.AS cs.CL cs.LG cs.SD stat.ML",
+    "summary": "We present SpecAugment, a simple data augmentation method for speech recognition. SpecAugment is applied directly to the feature inputs of a neural network (i.e., filter bank coefficients). The augmentation policy consists of warping the features, masking blocks of frequency channels, and masking blocks of time steps. We apply SpecAugment on Listen, Attend and Spell networks for end-to-end speech recognition tasks. We achieve state-of-the-art performance on the LibriSpeech 960h and Swichboard 300h tasks, outperforming all prior work. On LibriSpeech, we achieve 6.8% WER on test-other without the use of a language model, and 5.8% WER with shallow fusion with a language model. This compares to the previous state-of-the-art hybrid system of 7.5% WER. For Switchboard, we achieve 7.2%/14.6% on the Switchboard/CallHome portion of the Hub5'00 test set without the use of a language model, and 6.8%/14.1% with shallow fusion, which compares to the previous state-of-the-art hybrid system at 8.3%/17.3% WER.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "The game chromatic index of trees of maximum degree 4 with at most three degree-four vertices in a row",
+    "url": "http://arxiv.org/abs/1904.01496v1",
+    "categories": "math.CO 05C15, 05C57, 05C05",
+    "summary": "Fong et al. (The game chromatic index of some trees with maximum degree four and adjacent degree-four vertices, J. Comb Optim 36 (2018) 1-12) proved that the game chromatic index of any tree $T$ of maximum degree 4 whose degree-four vertices induce a forest of paths of length $l$ less than 2 is at most 5. In this paper, we show that the bound 5 is also valid for $l\\leq 2$. This partially solves the problem of characterization of the trees whose game chromatic index exceeds the maximum degree by at most 1, which was proposed by Cai and Zhu (Game chromatic index of $k$-degenerate graphs, J. Graph Theory 36 (2001) 144-155).",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "The Destruction of the Axiom of Determinacy by Forcings on $\\mathbb{R}$ when $Θ$ is Regular",
+    "url": "http://arxiv.org/abs/1903.07005v1",
+    "categories": "math.LO",
+    "summary": "$\\mathsf{ZF + AD}$ proves that for all nontrivial forcings $\\mathbb{P}$ on a wellorderable set of cardinality less than $\\Theta$, $1_{\\mathbb{P}} \\Vdash_{\\mathbb{P}} \\neg\\mathsf{AD}$. $\\mathsf{ZF + AD} + \\Theta$ is regular proves that for all nontrivial forcing $\\mathbb{P}$ which is a surjective image of $\\mathbb{R}$, $1_{\\mathbb{P}} \\Vdash_{\\mathbb{P}} \\neg\\mathsf{AD}$. In particular, $\\mathsf{ZF + AD + V = L(\\mathbb{R})}$ proves that for every nontrivial forcing $\\mathbb{P} \\in L_\\Theta(\\mathbb{R})$, $1_{\\mathbb{P}} \\Vdash_{\\mathbb{P}} \\neg\\mathsf{AD}$.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Small representations of integers by integral quadratic forms",
+    "url": "http://arxiv.org/abs/1903.05123v1",
+    "categories": "math.NT 11G50, 11E12, 11E39",
+    "summary": "Given an isotropic quadratic form over a number field which assumes a value $t$, we investigate the distribution of points at which this value is assumed. Building on the previous work about the distribution of small-height zeros of quadratic forms, we produce bounds on height of points outside of some algebraic sets in a quadratic space at which the form assumes the value $t$. Our bounds on height are explicit in terms of the heights of the form, the space, the algebraic set and the value $t$.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Cardinality of Wellordered Disjoint Unions of Quotients of Smooth Equivalence Relations",
+    "url": "http://arxiv.org/abs/1903.03902v1",
+    "categories": "math.LO",
+    "summary": "Assume $\\mathsf{ZF + AD^+ + V = L(\\mathscr{P}(\\mathbb{R}))}$. Let $\\approx$ denote the relation of being in bijection. Let $\\kappa \\in \\mathrm{ON}$ and $\\langle E_\\alpha : \\alpha < \\kappa\\rangle$ be a sequence of equivalence relations on $\\mathbb{R}$ with all classes countable and for all $\\alpha < \\kappa$, $\\mathbb{R} / E_\\alpha \\approx \\mathbb{R}$. Then the disjoint union $\\bigsqcup_{\\alpha < \\kappa} \\mathbb{R} / E_\\alpha$ is in bijection with $\\mathbb{R} \\times \\kappa$ and $\\bigsqcup_{\\alpha < \\kappa} \\mathbb{R} / E_\\alpha$ has the J\\'onsson property. Assume $\\mathsf{ZF + AD^+ + V = L(\\mathscr{P}(\\mathbb{R}))}$. A set $X \\subseteq [\\omega_1]^{<\\omega_1}$ has a sequence $\\langle E_\\alpha : \\alpha < \\omega_1\\rangle$ of equivalence relations on $\\mathbb{R}$ such that $\\mathbb{R} / E_\\alpha \\approx \\mathbb{R}$ and $X \\approx \\bigsqcup_{\\alpha < \\omega_1} \\mathbb{R} / E_\\alpha$ if and only if $\\mathbb{R} \\sqcup \\omega_1$ injects into $X$. Assume $\\mathsf{AD}$. Suppose $R \\subseteq [\\omega_1]^\\omega \\times \\mathbb{R}$ is a relation such that for all $f \\in [\\omega_1]^\\omega$, $R_f = \\{x \\in \\mathbb{R} : R(f,x)\\}$ is nonempty and countable. Then there is an uncountable $X \\subseteq \\omega_1$ and function $\\Phi : [X]^\\omega \\rightarrow \\mathbb{R}$ which uniformizes $R$ on $[X]^\\omega$: that is, for all $f \\in [X]^\\omega$, $R(f,\\Phi(f))$. Under $\\mathsf{AD}$, if $\\kappa$ is an ordinal and $\\langle E_\\alpha : \\alpha < \\kappa\\rangle$ is a sequence of equivalence relations on $\\mathbb{R}$ with all classes countable, then $[\\omega_1]^\\omega$ does not inject into $\\bigsqcup_{\\alpha < \\kappa} \\mathbb{R} / E_\\alpha$.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Lingvo: a Modular and Scalable Framework for Sequence-to-Sequence Modeling",
+    "url": "http://arxiv.org/abs/1902.08295v1",
+    "categories": "cs.LG stat.ML",
+    "summary": "Lingvo is a Tensorflow framework offering a complete solution for collaborative deep learning research, with a particular focus towards sequence-to-sequence models. Lingvo models are composed of modular building blocks that are flexible and easily extensible, and experiment configurations are centralized and highly customizable. Distributed training and quantized inference are supported directly within the framework, and it contains existing implementations of a large number of utilities, helper functions, and the newest research ideas. Lingvo has been used in collaboration by dozens of researchers in more than 20 papers over the last two years. This document outlines the underlying design of Lingvo and serves as an introduction to the various pieces of the framework, while also offering examples of advanced features that showcase the capabilities of the framework.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Quantum Trapping on MoS2 through Lifetimes of Resonant Electrons: Revealing Pauli Exclusion Principle",
+    "url": "http://arxiv.org/abs/1902.05695v2",
+    "categories": "cond-mat.mes-hall 81-05",
+    "summary": "We demonstrate that the linewidth of the field emission resonance (FER) observed on the surface of MoS2 using scanning tunneling microscopy can vary by up to one order of magnitude with an increase in the electric field. This unusual phenomenon originates from quantum trapping, where the electron relaxed from the resonant electron in the FER is momentarily trapped in the potential well on the MoS2 surface. Because the relaxed electron and the resonant electron have the same spin and the action of the Pauli exclusion principle, the lifetimes of the resonant electrons can be substantially prolonged when the relaxed electrons engage in the resonance trapping. The linewidth of the FER is thus shrunk considerably to as narrow as 12 meV. Moreover, it was found that the valley intensities around the FER are zero, indicating that MoS2 has an energy gap above the vacuum level. By using the energies of FERs, the potential of the band bending in the MoS2 interior can be measured precisely.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Insertion Transformer: Flexible Sequence Generation via Insertion Operations",
+    "url": "http://arxiv.org/abs/1902.03249v1",
+    "categories": "cs.CL cs.LG stat.ML",
+    "summary": "We present the Insertion Transformer, an iterative, partially autoregressive model for sequence generation based on insertion operations. Unlike typical autoregressive models which rely on a fixed, often left-to-right ordering of the output, our approach accommodates arbitrary orderings by allowing for tokens to be inserted anywhere in the sequence during decoding. This flexibility confers a number of advantages: for instance, not only can our model be trained to follow specific orderings such as left-to-right generation or a binary tree traversal, but it can also be trained to maximize entropy over all valid insertions for robustness. In addition, our model seamlessly accommodates both fully autoregressive generation (one insertion at a time) and partially autoregressive generation (simultaneous insertions at multiple locations). We validate our approach by analyzing its performance on the WMT 2014 English-German machine translation task under various settings for training and decoding. We find that the Insertion Transformer outperforms many prior non-autoregressive approaches to translation at comparable or better levels of parallelism, and successfully recovers the performance of the original Transformer while requiring only logarithmically many iterations during decoding.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Privacy Partitioning: Protecting User Data During the Deep Learning Inference Phase",
+    "url": "http://arxiv.org/abs/1812.02863v1",
+    "categories": "cs.CR cs.CV cs.LG",
+    "summary": "We present a practical method for protecting data during the inference phase of deep learning based on bipartite topology threat modeling and an interactive adversarial deep network construction. We term this approach \\emph{Privacy Partitioning}. In the proposed framework, we split the machine learning models and deploy a few layers into users' local devices, and the rest of the layers into a remote server. We propose an approach to protect user's data during the inference phase, while still achieve good classification accuracy. We conduct an experimental evaluation of this approach on benchmark datasets of three computer vision tasks. The experimental results indicate that this approach can be used to significantly attenuate the capacity for an adversary with access to the state-of-the-art deep network's intermediate states to learn privacy-sensitive inputs to the network. For example, we demonstrate that our approach can prevent attackers from inferring the private attributes such as gender from the Face image dataset without sacrificing the classification accuracy of the original machine learning task such as Face Identification.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "High Fidelity Simulations of Micro-Bubble Shedding from Retracting Thin Gas Films in the Context of Liquid-Liquid Impact",
+    "url": "http://arxiv.org/abs/1811.12352v1",
+    "categories": "physics.flu-dyn",
+    "summary": "Micro-bubbles are of significant interest due to the long-living signature they leave behind naval ships. In order to numerically model and predict these bubbles in naval applications, subgrid-scale models are required because of the extreme separation of length- and time-scales between the macroscopic geometries and the physical processes leading to the formation of these bubbles. Yet, there is much that is unknown about the mechanism behind the entrainment of such bubbles. Furthermore, quantitative information regarding their size distribution and dependence on flow parameters is very limited. Impact events are hypothesized to be the main contributor to the generation of micro-bubbles. This is due to a phenomenon known as Mesler entrainment, which has been observed in the context of the drop-pool impact problem. Namely, when a water droplet with diameter of $\\mathcal{O}(1mm)$ impacts a deep water pool with an impact velocity of $\\mathcal{O}(1m/s)$, hundreds of air micro-bubbles are entrained into the pool. These bubbles have been found to be remnants of a very thin air film entrapped between the two liquid bodies. These films have extremely high aspect ratios and after being punctured, shed micro-bubbles while retracting on time scales much shorter than the outer flow time scales. This separation of time-scales, along with a lacking of studies on retracting thin gas films has motivated us to study this fundamental problem with numerical simulations in two and three dimensions. Using a diffuse interface method, we perform two-phase simulations of retracting thin gas films in initially static liquid backgrounds to gain understanding regarding this problem and gather statistics that can be potentially used in a subgrid-scale model to predict micro-bubble shedding from a thin gas film. Coupling a model like this to a model that predicts the thin film characteristics ...",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Subgrid-scale modeling for microbubble generation amid colliding water surfaces",
+    "url": "http://arxiv.org/abs/1811.11898v1",
+    "categories": "physics.flu-dyn physics.ao-ph physics.comp-ph",
+    "summary": "The generation of microbubbles upon the collision and interaction of liquid bodies in a gaseous environment is a ubiquitous process in two-phase flows, including large-scale phenomena like ship wakes, breaking waves and rain showers. These collision and interaction events involve the relative approach of pairs of liquid-gas interfaces. As these interfaces approach, the smallest length scales of the system are dynamically reduced. This evolving disparity in length scales is numerically challenging to resolve without the employment of subgrid-scale (SGS) impact and breakup models. In this study, a physics-based impact and breakup model for the generation of these microbubbles is developed and implemented. The objectives of this study are to develop a computational algorithm that identifies interface collision events that contribute to the formation of microbubbles, to formulate a physics-based breakup model that predicts the distribution of microbubble sizes using the characteristics of the originating gas film, and to integrate these modules into a two-phase flow solver that accurately captures the effects of bubbles of all sizes. In these proceedings, an SGS model suitable for the aforementioned problems is proposed, and the steps involved in implementing the proposed SGS model in a macroscale flow solver are outlined. Two aspects of the development of this SGS model are then discussed in detail. First, the formulation and implementation of the first step of the SGS model, the collision detection algorithm, is detailed. Second, preliminary findings of a numerical investigation intended to shed light on breakup processes in turbulent two-phase flows are presented.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Bytes are All You Need: End-to-End Multilingual Speech Recognition and Synthesis with Bytes",
+    "url": "http://arxiv.org/abs/1811.09021v1",
+    "categories": "eess.AS cs.CL cs.LG cs.SD",
+    "summary": "We present two end-to-end models: Audio-to-Byte (A2B) and Byte-to-Audio (B2A), for multilingual speech recognition and synthesis. Prior work has predominantly used characters, sub-words or words as the unit of choice to model text. These units are difficult to scale to languages with large vocabularies, particularly in the case of multilingual processing. In this work, we model text via a sequence of Unicode bytes, specifically, the UTF-8 variable length byte sequence for each character. Bytes allow us to avoid large softmaxes in languages with large vocabularies, and share representations in multilingual models. We show that bytes are superior to grapheme characters over a wide variety of languages in monolingual end-to-end speech recognition. Additionally, our multilingual byte model outperform each respective single language baseline on average by 4.4% relatively. In Japanese-English code-switching speech, our multilingual byte model outperform our monolingual baseline by 38.6% relatively. Finally, we present an end-to-end multilingual speech synthesis model using byte representations which matches the performance of our monolingual baselines.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Slip of fluid molecules on solid surfaces by surface diffusion",
+    "url": "http://arxiv.org/abs/1811.00470v1",
+    "categories": "cond-mat.soft",
+    "summary": "The mechanism of fluid slip on a solid surface has been linked to surface diffusion, by which mobile adsorbed fluid molecules perform hops between adsorption sites. However, slip velocity arising from this surface hopping mechanism has been estimated to be significantly lower than that observed experimentally. In this paper, we propose a re-adsorption mechanism for fluid slip. Slip velocity predictions via this mechanism show the improved agreement with experimental measurements.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Optimal Completion Distillation for Sequence Learning",
+    "url": "http://arxiv.org/abs/1810.01398v2",
+    "categories": "cs.LG cs.AI cs.CL stat.ML",
+    "summary": "We present Optimal Completion Distillation (OCD), a training procedure for optimizing sequence to sequence models based on edit distance. OCD is efficient, has no hyper-parameters of its own, and does not require pretraining or joint optimization with conditional log-likelihood. Given a partial sequence generated by the model, we first identify the set of optimal suffixes that minimize the total edit distance, using an efficient dynamic programming algorithm. Then, for each position of the generated sequence, we use a target distribution that puts equal probability on the first token of all the optimal suffixes. OCD achieves the state-of-the-art performance on end-to-end speech recognition, on both Wall Street Journal and Librispeech datasets, achieving $9.3\\%$ WER and $4.5\\%$ WER respectively.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "ContractFuzzer: Fuzzing Smart Contracts for Vulnerability Detection",
+    "url": "http://arxiv.org/abs/1807.03932v2",
+    "categories": "cs.SE cs.CR",
+    "summary": "Decentralized cryptocurrencies feature the use of blockchain to transfer values among peers on networks without central agency. Smart contracts are programs running on top of the blockchain consensus protocol to enable people make agreements while minimizing trusts. Millions of smart contracts have been deployed in various decentralized applications. The security vulnerabilities within those smart contracts pose significant threats to their applications. Indeed, many critical security vulnerabilities within smart contracts on Ethereum platform have caused huge financial losses to their users. In this work, we present ContractFuzzer, a novel fuzzer to test Ethereum smart contracts for security vulnerabilities. ContractFuzzer generates fuzzing inputs based on the ABI specifications of smart contracts, defines test oracles to detect security vulnerabilities, instruments the EVM to log smart contracts runtime behaviors, and analyzes these logs to report security vulnerabilities. Our fuzzing of 6991 smart contracts has flagged more than 459 vulnerabilities with high precision. In particular, our fuzzing tool successfully detects the vulnerability of the DAO contract that leads to USD 60 million loss and the vulnerabilities of Parity Wallet that have led to the loss of $30 million and the freezing of USD 150 million worth of Ether.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "$L(\\mathbb{R})$ with Determinacy Satisfies the Suslin Hypothesis",
+    "url": "http://arxiv.org/abs/1803.08201v1",
+    "categories": "math.LO",
+    "summary": "The Suslin hypothesis states that there are no nonseparable complete dense linear orderings without endpoints which have the countable chain condition. $\\mathsf{ZF + AD^+ + V = L(\\mathscr{P}(\\mathbb{R}))}$ proves the Suslin hypothesis. In particular, if $L(\\mathbb{R}) \\models \\mathsf{AD}$, then $L(\\mathbb{R})$ satisfies the Suslin hypothesis, which answers a question of Foreman.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Multi-Layer Competitive-Cooperative Framework for Performance Enhancement of Differential Evolution",
+    "url": "http://arxiv.org/abs/1801.10546v3",
+    "categories": "cs.NE",
+    "summary": "Differential Evolution (DE) is recognized as one of the most powerful optimizers in the evolutionary algorithm (EA) family. Many DE variants were proposed in recent years, but significant differences in performances between them are hardly observed. Therefore, this paper suggests a multi-layer competitive-cooperative (MLCC) framework to facilitate the competition and cooperation of multiple DEs, which in turns, achieve a significant performance improvement. Unlike other multi-method strategies which adopt a multi-population based structure, with individuals only evolving in their corresponding subpopulations, MLCC implements a parallel structure with the entire population simultaneously monitored by multiple DEs assigned to their corresponding layers. An individual can store, utilize and update its evolution information in different layers based on an individual preference based layer selecting (IPLS) mechanism and a computational resource allocation bias (RAB) mechanism. In IPLS, individuals connect to only one favorite layer. While in RAB, high-quality solutions are evolved by considering all the layers. Thus DEs associated in the layers work in a competitive and cooperative manner. The proposed MLCC framework has been implemented on several highly competitive DEs. Experimental studies show that the MLCC variants significantly outperform the baseline DEs as well as several state-of-the-art and up-to-date DEs on CEC benchmark functions.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "An Evaluation of Bounding Approaches for Generalization",
+    "url": "http://arxiv.org/abs/1801.07328v2",
+    "categories": "stat.ME",
+    "summary": "Statisticians have recently developed propensity score methods to improve generalizations from randomized experiments that do not employ random sampling. However, these methods typically rely on assumptions whose plausibility may be questionable in practice. In this article, we introduce and discuss bounding, an approach that is based on alternative assumptions that may be more plausible in a given study. The bounding framework nonparametrically estimates population parameters using a range of plausible values that are consistent with the observed characteristics of the data. We illustrate how the bounds can be tightened using three approaches: imposing an alternative assumption based on monotonicity, redefining the population of inference, and using propensity score stratification. Using the results from two simulation studies, we examine the conditions under which bounds for the population parameter are tightened. We conclude with an application of bounding to SimCalc, a cluster randomized trial that evaluated the effectiveness of a technology aid on mathematics achievement.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Selective-Candidate Framework with Similarity Selection Rule for Evolutionary Optimization",
+    "url": "http://arxiv.org/abs/1712.06338v5",
+    "categories": "cs.NE",
+    "summary": "Achieving better exploitation and exploration capabilities (EEC) have always been an important yet challenging issue in the design of evolutionary optimization algorithm (EOA). The difficulties lie in obtaining a good balance in EEC, which is determined cooperatively by operations and parameters in an EOA. When deficiencies in exploitation or exploration are observed, most existing works consider a piecemeal approach, either by designing new operations or by altering the parameters. Unfortunately, when different situations are encountered, these proposals may fail to be the winner. To address these problems, this paper proposes an explicit EEC control method named selective-candidate framework with similarity selection rule (SCSS). M (M > 1) candidates are first generated from each current solution with independent operations and parameters to enrich the search. Then, a similarity selection rule is designed to determine the final candidate by considering the fitness ranking of the current solution and its Euclidian distance to each of these M candidates. Superior current solutions will prefer the closest candidates for efficient local exploitation while inferior ones will favor the farthest for exploration purpose. In this way, the rule could synthesize exploitation and exploration, making the evolution more effective. When applied to three classic, four state-of-the-art and four up-to-date EOAs from branches of differential evolution, evolution strategy and particle swarm optimization, significant enhancement in performance is achieved.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Scott Ranks of Classifications of the Admissibility Equivalence Relation",
+    "url": "http://arxiv.org/abs/1712.00847v1",
+    "categories": "math.LO",
+    "summary": "Let $\\mathscr{L}$ be a recursive language. Let $S(\\mathscr{L})$ be the set of $\\mathscr{L}$-structures with domain $\\omega$. Let $\\Phi : {}^\\omega 2 \\rightarrow S(\\mathscr{L})$ be a $\\Delta_1^1$ function with the property that for all $x,y \\in {}^\\omega 2$, $\\omega_1^x = \\omega_1^y$ if and only if $\\Phi(x) \\approx_{\\mathscr{L}} \\Phi(y)$. Then there is some $x \\in {}^\\omega 2$ so that $\\mathrm{SR}(\\Phi(x)) = \\omega_1^x + 1$.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Ordinal Definability and Combinatorics of Equivalence Relations",
+    "url": "http://arxiv.org/abs/1711.04353v1",
+    "categories": "math.LO",
+    "summary": "Assume $\\mathsf{ZF + AD^+ + V = L(\\mathscr{P}(\\mathbb{R}))}$. Let $E$ be a $\\mathbf{\\Sigma}^1_1$ equivalence relation coded in $\\mathrm{HOD}$. $E$ has an ordinal definable equivalence class without any ordinal definable elements if and only if $\\mathrm{HOD} \\models E$ is unpinned. $\\mathsf{ZF + AD^+ + V = L(\\mathscr{P}(\\mathbb{R}))}$ proves $E$-class section uniformization when $E$ is a $\\mathbf{\\Sigma}^1_1$ equivalence relation on $\\mathbb{R}$ which is pinned in every transitive model of $\\mathsf{ZFC}$ containing the real which codes $E$: Suppose $R$ is a relation on $\\mathbb{R}$ such that each section $R_x = \\{y : (x,y) \\in R\\}$ is an $E$-class, then there is a function $f : \\mathbb{R} \\rightarrow \\mathbb{R}$ such that for all $x \\in \\mathbb{R}$, $R(x,f(x))$. $\\mathsf{ZF + AD}$ proves that $\\mathbb{R} \\times \\kappa$ is J\\'onsson whenever $\\kappa$ is an ordinal: For every function $f : [\\mathbb{R} \\times \\kappa]^{<\\omega}_= \\rightarrow \\mathbb{R} \\times \\kappa$, there is an $A \\subseteq \\mathbb{R} \\times \\kappa$ with $A$ in bijection with $\\mathbb{R} \\times \\kappa$ and $f[[A]^{<\\omega}_=] \\neq \\mathbb{R} \\times \\kappa$.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Definable Combinatorics of Some Borel Equivalence Relations",
+    "url": "http://arxiv.org/abs/1709.04567v1",
+    "categories": "math.LO",
+    "summary": "If $X$ is a set, $E$ is an equivalence relation on $X$, and $n \\in \\omega$, then define $$[X]^n_E = \\{(x_0, ..., x_{n - 1}) \\in {}^nX : (\\forall i,j)(i \\neq j \\Rightarrow \\neg(x_i \\ E \\ x_j))\\}.$$ For $n \\in \\omega$, a set $X$ has the $n$-J\\'onsson property if and only if for every function $f : [X]^n_= \\rightarrow X$, there exists some $Y \\subseteq X$ with $X$ and $Y$ in bijection so that $f[[Y]^n_=] \\neq X$. A set $X$ has the J\\'onsson property if and only for every function $f : (\\bigcup_{n \\in \\omega}[X]^n_=) \\rightarrow X$, there exists some $Y \\subseteq X$ with $X$ and $Y$ in bijection so that $f[\\bigcup_{n \\in \\omega} [Y]^n_=] \\neq X$. Let $n \\in \\omega$, $X$ be a Polish space, and $E$ be an equivalence relation on $X$. $E$ has the $n$-Mycielski property if and only if for all comeager $C \\subseteq {}^nX$, there is some $\\mathbf{\\Delta_1^1}$ $A \\subseteq X$ so that $E \\leq_{\\mathbf{\\Delta_1^1}} E \\upharpoonright A$ and $[A]^n_E \\subseteq C$. The following equivalence relations will be considered: $E_0$ is defined on ${}^\\omega2$ by $x \\ E_0 \\ y$ if and only if $(\\exists n)(\\forall k > n)(x(k) = y(k))$. $E_1$ is defined on ${}^\\omega({}^\\omega2)$ by $x \\ E_1 \\ y$ if and only if $(\\exists n)(\\forall k > n)(x(k) = y(k))$. $E_2$ is defined on ${}^\\omega2$ by $x \\ E_2 \\ y$ if and only if $\\sum\\{\\frac{1}{n + 1} : n \\in x \\ \\triangle \\ y\\} < \\infty$, where $\\triangle$ denotes the symmetric difference. $E_3$ is defined on ${}^\\omega({}^\\omega2)$ by $x \\ E_3 \\ y$ if and only if $(\\forall n)(x(n) \\ E_0 \\ y(n))$. Holshouser and Jackson have shown that $\\mathbb{R}$ is J\\'onsson under $\\mathsf{AD}$. It will be shown that $E_0$ does not have the $3$-Mycielski property and that $E_1$, $E_2$, and $E_3$ do not have the $2$-Mycielski property. Under $\\mathsf{ZF + AD}$, ${}^\\omega 2 / E_0$ does not have the $3$-J\\'onsson property.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "A Finiteness theorem for positive definite strictly $n$-regular quadratic forms",
+    "url": "http://arxiv.org/abs/1706.04160v1",
+    "categories": "math.NT 11E12, 11E20",
+    "summary": "An integral quadratic form is called strictly $n$-regular if it primitively represents all quadratic forms in $n$ variables that are primitively represented by its genus. For any $n \\geq 2$, it will be shown that there are only finitely many similarity classes of positive definite strictly $n$-regular integral quadratic forms in $n + 4$ variables. This extends the recent finiteness results for strictly regular quaternary quadratic forms by Earnest-Kim-Meyer (2014).",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Advances in Joint CTC-Attention based End-to-End Speech Recognition with a Deep CNN Encoder and RNN-LM",
+    "url": "http://arxiv.org/abs/1706.02737v1",
+    "categories": "cs.CL",
+    "summary": "We present a state-of-the-art end-to-end Automatic Speech Recognition (ASR) model. We learn to listen and write characters with a joint Connectionist Temporal Classification (CTC) and attention-based encoder-decoder network. The encoder is a deep Convolutional Neural Network (CNN) based on the VGG network. The CTC network sits on top of the encoder and is jointly trained with the attention-based decoder. During the beam search process, we combine the CTC predictions, the attention-based decoder predictions and a separately trained LSTM language model. We achieve a 5-10\\% error reduction compared to prior systems on spontaneous Japanese and Chinese speech, and our end-to-end model beats out traditional hybrid ASR systems.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Fluid velocity slip and temperature jump at a solid surface",
+    "url": "http://arxiv.org/abs/1705.02375v1",
+    "categories": "cond-mat.soft",
+    "summary": "A comprehensive review of current analytical models, experimental techniques, and influencing factors is carried out to highlight the current challenges in this area. The study of fluid-solid boundary conditions has been ongoing for more than a century, starting from gas-solid interfaces and progressing to that of the more complex liquid-solid case. Breakthroughs have been made on the theoretical and experimental fronts but the mechanism behind the phenomena remains a puzzle. This paper provides a review of the theoretical models, and numerical and experimental investigations that have been carried out till date. Probable mechanisms and factors that affect the interfacial discontinuity are also documented.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "On a Waring's problem for integral quadratic and hermitian forms",
+    "url": "http://arxiv.org/abs/1702.08854v1",
+    "categories": "math.NT 11E12, 11E25, 11E39",
+    "summary": "For each positive integer $n$, let $g_{\\mathbb Z}(n)$ be the smallest integer such that if an integral quadratic form in $n$ variables can be written as a sum of squares of integral linear forms, then it can be written as a sum of $g_{\\mathbb Z}(n)$ squares of integral linear forms. We show that as $n$ goes to infinity, the growth of $g_{\\mathbb Z}(n)$ is at most an exponential of $\\sqrt{n}$. Our result improves the best known upper bound on $g_{\\mathbb Z}(n)$ which is in the order of an exponential of $n$. We also define an analogous number $g_{\\mathcal O}^*(n)$ for writing hermitian forms over the ring of integers $\\mathcal O$ of an imaginary quadratic field as sums of norms of integral linear forms, and when the class number of the imaginary quadratic field is 1, we show that the growth of $g_{\\mathcal O}^*(n)$ is at most an exponential of $\\sqrt{n}$. We also improve results of Conway-Sloane and Kim-Oh on $s$-integral lattices.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "A new model for temperature jump at a fluid-solid interface",
+    "url": "http://arxiv.org/abs/1612.08014v1",
+    "categories": "cond-mat.soft",
+    "summary": "The problem presented involves the development of a new analytical model for the general fluid-solid temperature jump. To the best of our knowledge, there are no analytical models that provide the accurate predictions of the temperature jump for both gas and liquid systems. In this paper, a unified model for the fluid-solid temperature jump has been developed based on our adsorption model of the interfacial interactions. Results obtained from this model are validated with available results from the literature.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "A new model for fluid velocity slip on a solid surface",
+    "url": "http://arxiv.org/abs/1612.08011v1",
+    "categories": "cond-mat.soft",
+    "summary": "A general adsorption model is developed to describe the interactions between near-wall fluid molecules and solid surface. This model serves as a framework for the theoretical modelling of the boundary slip phenomena. Based on this adsorption model, a new general model for the slip velocity of fluids on solid surfaces is introduced. The slip boundary condition at a fluid-solid interface has hitherto been considered separately for gases and liquids. In this paper, we show that the slip velocity in both gases and liquids may originate from dynamical adsorption processes at the interface. A unified analytical model that is valid for both gas-solid and liquid-solid slip boundary conditions is proposed based on surface science theory. The corroboration with experimental data extracted from the literature shows that the proposed model provides an improved prediction compared to existing analytical models for gases at higher shear rates and close agreement for liquid-solid interfaces in general.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Large Fizeau's light-dragging effect in a moving electromagnetically induced transparent medium",
+    "url": "http://arxiv.org/abs/1610.03203v1",
+    "categories": "physics.atom-ph quant-ph",
+    "summary": "As one of the most influential experiments on the development of modern macroscopic theory from Newtonian mechanics to Einstein's special theory of relativity, the phenomenon of light dragging in a moving medium has been discussed and observed extensively in different types of systems. To have a significant dragging effect, the long duration of light travelling in the medium is preferred. Here we demonstrate a light-dragging experiment in an electromagnetically induced transparent cold atomic ensemble and enhance the dragging effect by at least three orders of magnitude compared with the previous experiments. With a large enhancement of the dragging effect, we realize an atom-based velocimeter that has a sensitivity two orders of magnitude higher than the velocity width of the atomic medium used. Such a demonstration could pave the way for motional sensing using the collective state of atoms in a room temperature vapour cell or solid state material.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Latent Sequence Decompositions",
+    "url": "http://arxiv.org/abs/1610.03035v6",
+    "categories": "stat.ML cs.CL cs.LG",
+    "summary": "We present the Latent Sequence Decompositions (LSD) framework. LSD decomposes sequences with variable lengthed output units as a function of both the input sequence and the output sequence. We present a training algorithm which samples valid extensions and an approximate decoding algorithm. We experiment with the Wall Street Journal speech recognition task. Our LSD model achieves 12.9% WER compared to a character baseline of 14.8% WER. When combined with a convolutional network on the encoder, we achieve 9.6% WER.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Very Deep Convolutional Networks for End-to-End Speech Recognition",
+    "url": "http://arxiv.org/abs/1610.03022v1",
+    "categories": "cs.CL",
+    "summary": "Sequence-to-sequence models have shown success in end-to-end speech recognition. However these models have only used shallow acoustic encoder networks. In our work, we successively train very deep convolutional networks to add more expressive power and better generalization for end-to-end ASR models. We apply network-in-network principles, batch normalization, residual connections and convolutional LSTMs to build very deep recurrent and convolutional structures. Our models exploit the spectral structure in the feature space and add computational depth without overfitting issues. We experiment with the WSJ ASR task and achieve 10.5\\% word error rate without any dictionary or language using a 15 layer deep network.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "When an Equivalence Relation with All Borel Classes will be Borel Somewhere?",
+    "url": "http://arxiv.org/abs/1608.04913v1",
+    "categories": "math.LO",
+    "summary": "In $\\mathsf{ZFC}$, if there is a measurable cardinal with infinitely many Woodin cardinals below it, then for every equivalence relation $E \\in L(\\mathbb{R})$ on $\\mathbb{R}$ with all $\\mathbf{\\Delta}_1^1$ classes and every $\\sigma$-ideal $I$ on $\\mathbb{R}$ so that the associated forcing $\\mathbb{P}_I$ of $I^+$ $\\mathbf{\\Delta}_1^1$ subsets is proper, there exists some $I^+$ $\\mathbf{\\Delta}_1^1$ set $C$ so that $E \\upharpoonright C$ is a $\\mathbf{\\Delta}_1^1$ equivalence relation. In $\\mathsf{ZF} + \\mathsf{DC} + \\mathsf{AD}_\\mathbb{R} + V = L(\\mathscr{P}(\\mathbb{R}))$, for every equivalence relation $E$ on $\\mathbb{R}$ with all $\\mathbf{\\Delta}_1^1$ classes and every $\\sigma$-ideal $I$ on $\\mathbb{R}$ so that the associated forcing $\\mathbb{P}_I$ is proper, there is some $I^+$ $\\mathbf{\\Delta}_1^1$ set $C$ so that $E \\upharpoonright C$ is a $\\mathbf{\\Delta}_1^1$ equivalence relation.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Partial Identification of Treatment Effects for Generalizability",
+    "url": "http://arxiv.org/abs/1608.04341v3",
+    "categories": "stat.AP stat.ME",
+    "summary": "Recent methods to improve generalizations from nonrandom samples typically invoke assumptions such as the strong ignorability of sample selection that are often controversial in practice to derive point estimates. Rather than focus on the point estimate based inferences, this article considers inferences on partially identified estimates from fewer and weaker assumptions. We extend partial identification methods to causal generalization with nonrandom samples by using a cluster randomized trial in education. Bounds on the population average treatment effect are derived under four cases, two under no assumptions on the data, and two that assume bounded sample variation and monotonicity of response. This approach is amenable to incorporating population data frames to tighten bounds on the population average treatment effect. Under the assumptions of bounded sample variation and monotonicity, the interval estimates of the average treatment effect provide sufficiently informative bounds to rule out large treatment effects, which are consistent with the point estimates from the experimental study. This illustrates that partial identification methods can provide an alternative perspective to causal generalization in the absence of strong ignorability of sample selection.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "On Efficient Decoding and Design of Sparse Random Linear Network Codes",
+    "url": "http://arxiv.org/abs/1604.05573v1",
+    "categories": "cs.IT math.IT",
+    "summary": "Random linear network coding (RLNC) in theory achieves the max-flow capacity of multicast networks, at the cost of high decoding complexity. To improve the performance-complexity tradeoff, we consider the design of sparse network codes. A generation-based strategy is employed in which source packets are grouped into overlapping subsets called generations. RLNC is performed only amongst packets belonging to the same generation throughout the network so that sparseness can be maintained. In this paper, generation-based network codes with low reception overheads and decoding costs are designed for transmitting of the order of $10^2$-$10^3$ source packets. A low-complexity overhead-optimized decoder is proposed that exploits \"overlaps\" between generations. The sparseness of the codes is exploited through local processing and multiple rounds of pivoting of the decoding matrix. To demonstrate the efficacy of our approach, codes comprising a binary precode, random overlapping generations, and binary RLNC are designed. The results show that our designs can achieve negligible code overheads at low decoding costs, and outperform existing network codes that use the generation based strategy.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "The Countable Admissible Ordinal Equivalence Relation",
+    "url": "http://arxiv.org/abs/1601.07924v1",
+    "categories": "math.LO",
+    "summary": "Let $F_{\\omega_1}$ be the countable admissible ordinal equivalence relation defined on ${}^\\omega 2$ by $x \\ F_{\\omega_1} \\ y$ if and only if $\\omega_1^x = \\omega_1^y$. It will be shown that $F_{\\omega_1}$ is classifiable by countable structures and must be classified by structures of high Scott rank. If $E$ and $F$ are equivalence relations, then $E$ is almost Borel reducible to $F$ if and only if there is a Borel reduction of $E$ to $F$, except possibly on countably many $E$-classes. Let $E_{\\omega_1}$ denote the equivalence of order types of reals coding well-orderings. It will be shown that in the constructible universe $L$ and set generic extensions of $L$, $E_{\\omega_1}$ is not almost Borel reducible to $F_{\\omega_1}$, although a result of Zapletal implies such an almost Borel reduction exists if there is a measurable cardinal. Lastly, it will be shown that the isomorphism relation induced by a counterexample to Vaught's conjecture cannot be Borel reducible to $F_{\\omega_1}$ in $L$ and set generic extensions of $L$. This shows the consistency of a negative answer to a question of Sy-David Friedman.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Radiative and Non-Radiative Exciton Energy Transfer in Monolayers of Two-Dimensional Transition Metal Dichalcogenides",
+    "url": "http://arxiv.org/abs/1601.05853v1",
+    "categories": "cond-mat.mes-hall",
+    "summary": "We present results on the rates of interlayer energy transfer between excitons in two-dimensional transition metal dichalcogenides (TMDs). We consider both radiative (mediated by real photons) and non-radiative (mediated by virtual photons) mechanisms of energy transfer using a unified Green's function approach that takes into account modification of the exciton energy dispersions as a result of interactions. The large optical oscillator strengths associated with excitons in TMDs result in very fast energy transfer rates. The energy transfer times depend on the exciton momentum, exciton linewidth, and the interlayer separation and can range from values less than 100 femtoseconds to more than tens of picoseconds. Whereas inside the light cone the energy transfer rates of longitudinal and transverse excitons are comparable, outside the light cone the energy transfer rates of longitudinal excitons far exceed those of transverse excitons. Average energy transfer times for a thermal ensemble of longitudinal and transverse excitons is temperature dependent and can be smaller than a picosecond at room temperature for interlayer separations smaller than 10 nm. Energy transfer times of localized excitons range from values less than a picosecond to several tens of picoseconds. When the exciton scattering and dephasing rates are small, energy transfer dynamics exhibit coherent oscillations. Our results show that electromagnetic interlayer energy transfer can be an efficient mechanism for energy exchange between TMD monolayers.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "QoE Optimization of Video Multicast with Heterogeneous Channels and Playback Requirements",
+    "url": "http://arxiv.org/abs/1511.08082v1",
+    "categories": "cs.IT cs.MM cs.NI math.IT",
+    "summary": "We propose an application-layer forward error correction (AL-FEC) code rate allocation scheme to maximize the quality of experience (QoE) of a video multicast. The allocation dynamically assigns multicast clients to the quality layers of a scalable video bitstream, based on their heterogeneous channel qualities and video playback capabilities. Normalized mean opinion score (NMOS) is employed to value the client's quality of experience across various possible adaptations of a multilayer video, coded using mixed spatial-temporal-amplitude scalability. The scheme provides assurance of reception of the video layers using fountain coding and effectively allocates coding rates across the layers to maximize a multicast utility measure. An advantageous feature of the proposed scheme is that the complexity of the optimization is independent of the number of clients. Additionally, a convex formulation is proposed that attains close to the best performance and offers a reliable alternative when further reduction in computational complexity is desired. The optimization is extended to perform suppression of QoE fluctuations for clients with marginal channel qualities. The scheme offers a means to trade-off service utility for the entire multicast group and clients with the worst channels. According to the simulation results, the proposed optimization framework is robust against source rate variations and limited amount of client feedback.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Equivalence Relations Which Are Borel Somewhere",
+    "url": "http://arxiv.org/abs/1511.07981v2",
+    "categories": "math.LO",
+    "summary": "The following will be shown: Let $I$ be a $\\sigma$-ideal on a Polish space $X$ with the property that the associated forcing of $I^+$ Borel subsets ordered by $\\subseteq$ is a proper forcing. Let E be an analytic or coanalytic equivalence relation on this Polish space with all equivalence classes Borel. If sharps of certain sets exist, then there is an $I^+$ Borel subset $C$ of $X$ such that $E \\upharpoonright C$ is a Borel equivalence relation.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Ultrafast Response of Monolayer Molybdenum Disulfide (MoS2) Photodetectors",
+    "url": "http://arxiv.org/abs/1510.02166v1",
+    "categories": "cond-mat.mes-hall cond-mat.mtrl-sci",
+    "summary": "The strong light emission and absorption exhibited by single atomic layer transitional metal dichalcogenides in the visible to near-infrared wavelength range makes them attractive for optoelectronic applications. In this work, using two-pulse photovoltage correlation technique, we show that monolayer molybdenum disulfide photodetector can have intrinsic response times as short as 3 ps implying photodetection bandwidths as wide as 300 GHz. The fast photodetector response is a result of the short electron-hole and exciton lifetimes in this material. Recombination of photoexcited carriers in most two-dimensional metal dichalcogenides is dominated by non-radiative processes, most notable among which is Auger scattering. The fast response time, and the ease of fabrication of these devices, make them interesting for low-cost ultrafast optical communication links.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Self-Assembled Graphene Plasmon Resonators",
+    "url": "http://arxiv.org/abs/1509.08118v1",
+    "categories": "cond-mat.mtrl-sci",
+    "summary": "The ability to fabricate dense small features over a large area is important for graphene plasmonics. We present the first self-assembled graphene plasmonic resonators operating in the mid-IR. The resonators are 35 nm in diameter with 20 nm spacing and cover a centimeter sized area. The resonators exhibit a very broad resonance. We fit our data using a drude model and combine it with SEM data to investigate the contribution to broadening from our process. We find that the self-assembly does not contribute significantly to the broadening observed.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "To What Extent Is Stress Testing of Android TV Applications Automated in Industrial Environments?",
+    "url": "http://arxiv.org/abs/1509.06854v1",
+    "categories": "cs.SE",
+    "summary": "An Android-based smart Television (TV) must reliably run its applications in an embedded program environment under diverse hardware resource conditions. Owing to the diverse hardware components used to build numerous TV models, TV simulators are usually not high enough in fidelity to simulate various TV models, and thus are only regarded as unreliable alternatives when stress testing such applications. Therefore, even though stress testing on real TV sets is tedious, it is the de facto approach to ensure the reliability of these applications in the industry. In this paper, we study to what extent stress testing of smart TV applications can be fully automated in the industrial environments. To the best of our knowledge, no previous work has addressed this important question. We summarize the find-ings collected from 10 industrial test engineers to have tested 20 such TV applications in a real production environment. Our study shows that the industry required test automation supports on high-level GUI object controls and status checking, setup of resource conditions and the interplay between the two. With such supports, 87% of the industrial test specifications of one TV model can be fully automated and 71.4% of them were found to be fully reusable to test a subsequent TV model with major up-grades of hardware, operating system and application. It repre-sents a significant improvement with margins of 28% and 38%, respectively, compared to stress testing without such supports.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Blowup of Regular Solutions for the Relativistic Euler-Poisson Equations",
+    "url": "http://arxiv.org/abs/1509.01543v1",
+    "categories": "math.AP math-ph math.MP 35B44, 35Q75, 83C10, 35L67, 35B30",
+    "summary": "In this paper, we study the blowup phenomena for the regular solutions of the isentropic relativistic Euler-Poisson equations with a vacuum state in spherical symmetry. Using a general family of testing functions, we obtain new blowup conditions for the relativistic Euler-Poisson equations. We also show that the proposed blowup conditions are valid regardless of the speed requirement, which was one of the key constraints stated in \"Y. Geng, Singularity Formation for Relativistic Euler and Euler-Poisson Equations with Repulsive Force, Commun. Pure Appl. Anal., 14 (2015), 549--564.\".",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Semiquantum key distribution with secure delegated quantum computation",
+    "url": "http://arxiv.org/abs/1508.07090v2",
+    "categories": "quant-ph",
+    "summary": "Semiquantum key distribution allows a quantum party to share a random key with a \"classical\" party who only can prepare and measure qubits in the computational basis or reorder some qubits when he has access to a quantum channel. In this work, we present a protocol where a secret key can be established between a quantum user and an almost classical user who only needs the quantum ability to access quantum channels, by securely delegating quantum computation to a quantum server. We show the proposed protocol is robust even when the delegated quantum server is a powerful adversary, and is experimentally feasible with current technology. As one party of our protocol is the most quantum-resource efficient, it can be more practical and significantly widen the applicability scope of quantum key distribution.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Characterization and Control of Diffusion Processes in Multi-Agent Networks",
+    "url": "http://arxiv.org/abs/1508.06738v1",
+    "categories": "cs.SI cs.SY",
+    "summary": "Diffusion processes are instrumental to describe the movement of a continuous quantity in a generic network of interacting agents. Here, we present a probabilistic framework for diffusion in networks and propose to classify agent interactions according to two protocols where the total network quantity is conserved or variable. For both protocols, our focus is on asymmetric interactions between agents involving directed graphs. Specifically, we define how the dynamics of conservative and non-conservative networks relate to the weighted in-degree Laplacian and the weighted out-degree Laplacian. Our framework allows the addition and subtraction of the considered quantity to and from a set of nodes. This enables the modeling of stubborn agents with time-invariant quantities, and the process of dynamic learning. We highlight several stability and convergence characteristics of our framework, and define the conditions under which asymptotic convergence is guaranteed when the network topology is variable. In addition, we indicate how our framework accommodates external network control and targeted network design. We show how network diffusion can be externally manipulated by applying time-varying input functions at individual nodes. Desirable network structures can also be constructed by adjusting the dominant diffusion modes. To this purpose, we propose a Markov decision process that learns these network adjustments through a reinforcement learning algorithm, suitable for large networks. The presented network control and design schemes enable flow modifications that allow the alteration of the dynamic and stationary behavior of the network in conservative and non-conservative networks.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "The Detector System of The Daya Bay Reactor Neutrino Experiment",
+    "url": "http://arxiv.org/abs/1508.03943v2",
+    "categories": "physics.ins-det hep-ex",
+    "summary": "The Daya Bay experiment was the first to report simultaneous measurements of reactor antineutrinos at multiple baselines leading to the discovery of $\\bar{\\nu}_e$ oscillations over km-baselines. Subsequent data has provided the world's most precise measurement of $\\rm{sin}^22\\theta_{13}$ and the effective mass splitting $\\Delta m_{ee}^2$. The experiment is located in Daya Bay, China where the cluster of six nuclear reactors is among the world's most prolific sources of electron antineutrinos. Multiple antineutrino detectors are deployed in three underground water pools at different distances from the reactor cores to search for deviations in the antineutrino rate and energy spectrum due to neutrino mixing. Instrumented with photomultiplier tubes (PMTs), the water pools serve as shielding against natural radioactivity from the surrounding rock and provide efficient muon tagging. Arrays of resistive plate chambers over the top of each pool provide additional muon detection. The antineutrino detectors were specifically designed for measurements of the antineutrino flux with minimal systematic uncertainty. Relative detector efficiencies between the near and far detectors are known to better than 0.2%. With the unblinding of the final two detectors' baselines and target masses, a complete description and comparison of the eight antineutrino detectors can now be presented. This paper describes the Daya Bay detector systems, consisting of eight antineutrino detectors in three instrumented water pools in three underground halls, and their operation through the first year of eight detector data-taking.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Listen, Attend and Spell",
+    "url": "http://arxiv.org/abs/1508.01211v2",
+    "categories": "cs.CL cs.LG cs.NE stat.ML",
+    "summary": "We present Listen, Attend and Spell (LAS), a neural network that learns to transcribe speech utterances to characters. Unlike traditional DNN-HMM models, this model learns all the components of a speech recognizer jointly. Our system has two components: a listener and a speller. The listener is a pyramidal recurrent network encoder that accepts filter bank spectra as inputs. The speller is an attention-based recurrent network decoder that emits characters as outputs. The network produces character sequences without making any independence assumptions between the characters. This is the key improvement of LAS over previous end-to-end CTC models. On a subset of the Google voice search task, LAS achieves a word error rate (WER) of 14.1% without a dictionary or a language model, and 10.3% with language model rescoring over the top 32 beams. By comparison, the state-of-the-art CLDNN-HMM model achieves a WER of 8.0%.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Single-step deposition of high-mobility graphene at reduced temperatures",
+    "url": "http://arxiv.org/abs/1506.02058v1",
+    "categories": "cond-mat.mtrl-sci",
+    "summary": "Current methods of chemical vapor deposition (CVD) of graphene on copper are complicated by multiple processing steps and by high temperatures required in both preparing the copper and inducing subsequent film growth. Here we demonstrate a plasma-enhanced CVD chemistry that enables the entire process to take place in a single step, at reduced temperatures (< 420 C), and in a matter of minutes. Growth on copper foils is found to nucleate from arrays of well-aligned domains, and the ensuing films possess sub-nanometre smoothness, excellent crystalline quality, low strain, few defects and room temperature electrical mobility up to (6.0 +- 1.0) x 10^{4} cm^{2}V^{-1}s^{-1}, better than that of large, single-crystalline graphene derived from thermal CVD growth. These results indicate that elevated temperatures and crystalline substrates are not necessary for synthesizing high-quality graphene.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "The representation of integers by positive ternary quadratic polynomials",
+    "url": "http://arxiv.org/abs/1505.00281v1",
+    "categories": "math.NT 11D09, 11E12, 11E20",
+    "summary": "An integral quadratic polynomial is called regular if it represents every integer that is represented by the polynomial itself over the reals and over the $p$-adic integers for every prime $p$. It is called complete if it is of the form $Q({\\mathbf x} + {\\mathbf v})$, where $Q$ is an integral quadratic form in the variables ${\\mathbf x} = (x_1, \\ldots, x_n)$ and ${\\mathbf v}$ is a vector in ${\\mathbb Q}^n$. Its conductor is defined to be the smallest positive integer $c$ such that $c{\\mathbf v} \\in {\\mathbb Z}^n$. We prove that for a fixed positive integer $c$, there are only finitely many equivalence classes of positive primitive ternary regular complete quadratic polynomials with conductor $c$. This generalizes the analogous finiteness results for positive definite regular ternary quadratic forms by Watson and for ternary triangular forms by Chan and Oh.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Transferring Knowledge from a RNN to a DNN",
+    "url": "http://arxiv.org/abs/1504.01483v1",
+    "categories": "cs.LG cs.CL cs.NE stat.ML",
+    "summary": "Deep Neural Network (DNN) acoustic models have yielded many state-of-the-art results in Automatic Speech Recognition (ASR) tasks. More recently, Recurrent Neural Network (RNN) models have been shown to outperform DNNs counterparts. However, state-of-the-art DNN and RNN models tend to be impractical to deploy on embedded systems with limited computational capacity. Traditionally, the approach for embedded platforms is to either train a small DNN directly, or to train a small DNN that learns the output distribution of a large DNN. In this paper, we utilize a state-of-the-art RNN to transfer knowledge to small DNN. We use the RNN model to generate soft alignments and minimize the Kullback-Leibler divergence against the small DNN. The small DNN trained on the soft RNN alignments achieved a 3.93 WER on the Wall Street Journal (WSJ) eval92 task compared to a baseline 4.54 WER or more than 13% relative improvement.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Deep Recurrent Neural Networks for Acoustic Modelling",
+    "url": "http://arxiv.org/abs/1504.01482v1",
+    "categories": "cs.LG cs.CL cs.NE stat.ML",
+    "summary": "We present a novel deep Recurrent Neural Network (RNN) model for acoustic modelling in Automatic Speech Recognition (ASR). We term our contribution as a TC-DNN-BLSTM-DNN model, the model combines a Deep Neural Network (DNN) with Time Convolution (TC), followed by a Bidirectional Long Short-Term Memory (BLSTM), and a final DNN. The first DNN acts as a feature processor to our model, the BLSTM then generates a context from the sequence acoustic signal, and the final DNN takes the context and models the posterior probabilities of the acoustic states. We achieve a 3.47 WER on the Wall Street Journal (WSJ) eval92 task or more than 8% relative improvement over the baseline DNN models.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Optimization of Unequal Error Protection Rateless Codes for Multimedia Multicasting",
+    "url": "http://arxiv.org/abs/1501.02307v1",
+    "categories": "cs.IT cs.MM math.IT",
+    "summary": "Rateless codes have been shown to be able to provide greater flexibility and efficiency than fixed-rate codes for multicast applications. In the following, we optimize rateless codes for unequal error protection (UEP) for multimedia multicasting to a set of heterogeneous users. The proposed designs have the objectives of providing either guaranteed or best-effort quality of service (QoS). A randomly interleaved rateless encoder is proposed whereby users only need to decode symbols up to their own QoS level. The proposed coder is optimized based on measured transmission properties of standardized raptor codes over wireless channels. It is shown that a guaranteed QoS problem formulation can be transformed into a convex optimization problem, yielding a globally optimal solution. Numerical results demonstrate that the proposed optimized random interleaved UEP rateless coder's performance compares favorably with that of other recently proposed UEP rateless codes.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Fast Exciton Annihilation by Capture of Electrons or Holes by Defects via Auger Scattering in Monolayer Metal Dichalcogenides",
+    "url": "http://arxiv.org/abs/1410.3141v2",
+    "categories": "cond-mat.mes-hall",
+    "summary": "The strong Coulomb interactions and the small exciton radii in two-dimensional metal dichalcogenides can result in very fast capture of electrons and holes of excitons by mid-gap defects from Auger processes. In the Auger processes considered here, an exciton is annihilated at a defect site with the capture of the electron (or the hole) by the defect and the hole (or the electron) is scattered to a high energy. In the case of excitons, the probability of finding an electron and a hole near each other is enhanced many folds compared to the case of free uncorrelated electrons and holes. Consequently, the rate of carrier capture by defects from Auger scattering for excitons in metal dichalcogenides can be 100-1000 times larger than for uncorrelated electrons and holes for carrier densities in the $10^{11}$-$10^{12}$ cm$^{-2}$ range. We calculate the capture times of electrons and holes by defects and show that the capture times can be in the sub-picosecond to a few picoseconds range. The capture rates exhibit linear as well as quadratic dependence on the exciton density. These fast time scales agree well with the recent experimental observations, and point to the importance of controlling defects in metal dichalcogenides for optoelectronic applications.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Totally isotropic subspaces of small height in quadratic spaces",
+    "url": "http://arxiv.org/abs/1409.4717v1",
+    "categories": "math.NT 11G50, 11E12, 11H06",
+    "summary": "Let $K$ be a global field or $\\overline{\\mathbb Q}$, $F$ a nonzero quadratic form on $K^N$, $N \\geq 2$, and $V$ a subspace of $K^N$. We prove the existence of an infinite collection of finite families of small-height maximal totally isotropic subspaces of $(V,F)$ such that each such family spans $V$ as a $K$-vector space. This result generalizes and extends a well known theorem of J. Vaaler and further contributes to the effective study of quadratic forms via height in the general spirit of Cassels' theorem on small zeros of quadratic forms. All bounds on height are explicit.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Radiative Lifetimes of Excitons and Trions in Monolayers of Metal Dichalcogenide MoS2",
+    "url": "http://arxiv.org/abs/1409.3996v5",
+    "categories": "cond-mat.mes-hall cond-mat.mtrl-sci",
+    "summary": "We present results on the radiative lifetimes of excitons and trions in a monolayer of metal dichalcogenide MoS2. The small exciton radius and the large exciton optical oscillator strength result in radiative lifetimes in the 0.18-0.30 ps range for excitons that have small in-plane momenta and couple to radiation. Average lifetimes of thermally distributed excitons depend linearly on the exciton temperature and can be in the few picoseconds range at small temperatures and more than a nanosecond near room temperature. Localized excitons exhibit lifetimes in the same range and the lifetime increases as the localization length decreases. The radiative lifetimes of trions are in the hundreds of picosecond range and increase with the increase in the trion momentum. Average lifetimes of thermally distributed trions increase with the trion temperature as the trions acquire thermal energy and larger momenta. We expect our theoretical results to be applicable to most other 2D transition metal dichalcogenides.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Coupling of Plasmon Modes in Graphene Microstructures",
+    "url": "http://arxiv.org/abs/1408.1734v1",
+    "categories": "cond-mat.mes-hall cond-mat.mtrl-sci",
+    "summary": "A variety of different graphene plasmonic structures and devices have been proposed and demonstrated experimentally. Plasmon modes in graphene microstructures interact strongly via the depolarization fields. An accurate quantitative description of the coupling between plasmon modes is required for designing and understanding complex plasmonic devices. Drawing inspiration from microphotonics, we present a coupled-mode theory for graphene plasmonics in which the plasmon eigenmodes of a coupled system are expressed in terms of the plasmon eigenmodes of its uncoupled sub-systems. The coupled-mode theory enables accurate computation of the coupling between the plasmon modes and of the resulting dynamics. We compare theory with experiments performed on the plasmon modes in coupled arrays of graphene strips. In experiments, we tune the coupling by changing the spacing between the graphene strips in the array. Our results show that the coupling parameters obtained from the coupled-mode theory and the plasmon frequency changes resulting from this coupling agree very well with experiments. The work presented here provides a framework for designing and understanding coupled graphene plasmonic structures.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "An improved scoring matrix for multiple sequence alignment",
+    "url": "http://arxiv.org/abs/1402.5327v2",
+    "categories": "q-bio.QM q-bio.GN",
+    "summary": "The way for performing multiple sequence alignment is based on the criterion of the maximum scored information content computed from a weight matrix, but it is possible to have two or more alignments to have the same highest score leading to ambiguities in selecting the best alignment. This paper addresses this issue by introducing the concept of joint weight matrix to eliminate the randomness in selecting the best multiple sequence alignment. Alignments with equal scores are iteratively rescored with the joint weight matrix of increasing level (nucleotide pairs, triplets and so on) until one single best alignment is eventually found. This method for resolving ambiguity in multiple sequence alignment can be easily implemented by use of the improved scoring matrix.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Absorption of Light by Excitons and Trions in Monolayers of Metal Dichalcogenide MoS$_{2}$: Experiments and Theory",
+    "url": "http://arxiv.org/abs/1402.0263v2",
+    "categories": "cond-mat.mes-hall cond-mat.mtrl-sci",
+    "summary": "We measure the optical absorption spectra and optical conductivities of excitons and trions in monolayers of metal dichalcogenide MoS$_{2}$ and compare the results with theoretical models. Our results show that the Wannier-Mott model for excitons, with modifications to account for small exciton radii and large exciton relative wavefunction spread in momentum space, phase space blocking due to Pauli exclusion in doped materials, and wavevector dependent dielectric constant, gives results that agree well with experiments. The measured exciton optical absorption spectra are used to obtain experimental estimates for the exciton radii that fall in the $7-10\\AA$ range and agree well with theory. The measured trion optical absorption spectra are used to obtain values for the trion radii that also agree well with theory. The measured values of the exciton and trion radii correspond to binding energies that are in good agreement with values obtained from first principles calculations.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Effects of thermal treatment on radiative properties of HVPE grown InP layers",
+    "url": "http://arxiv.org/abs/1312.1981v2",
+    "categories": "cond-mat.mtrl-sci",
+    "summary": "Radiative efficiency of highly luminescent bulk InP wafers severely degrades upon heat treatment involved in epitaxial growth of quaternary layers and fabrication of photodiodes on the surface. This unfortunate property impedes the use of bulk InP as scintillator material. On the other hand, it is known that thin epitaxial InP layers, grown by molecular beam epitaxy (MBE) or metal-organic chemical vapor deposition (MOCVD), do not exhibit any degradation. These layers, however, are too thin to be useful in scintillators. The capability of hydride vapor phase epitaxy (HVPE) process to grow thick bulk-like layers in reasonable time is well known, but the radiative properties of HVPE InP layers are not known. We have studied radiative properties of 21 micron thick InP layers grown by HVPE and found them comparable to those of best luminescent bulk InP virgin wafers. In contrast to the bulk wafers, the radiative efficiency of HVPE layers does not degrade upon heat treatment. This opens up the possibility of implementing free-standing epitaxial InP scintillator structures endowed with surface photodiodes for registration of the scintillation.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "A generalized Hermite constant and its computations for imaginary quadratic fields",
+    "url": "http://arxiv.org/abs/1307.3714v2",
+    "categories": "math.NT Primary 11H50, 11H55",
+    "summary": "We introduce the projective Hermite constant for positive definite binary hermitian forms associated with an imaginary quadratic number field $K$. It is a lower bound for the classical Hermite constant, and these two constants coincide when $K$ has class number one. Using the geometric tools developed by Mendoza and Vogtmann for their study of the homology of the Bianchi groups, we compute the projective Hermite constants for those $K$ whose absolute discriminants are less than 70, and determine the hermitian forms that attain the projective Hermite constants in these cases. A comparison of the projective hermitian constant with some other generalizations of the classical Hermite constant is also given.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Small zeros of quadratic forms outside of a union of varieties",
+    "url": "http://arxiv.org/abs/1307.0564v1",
+    "categories": "math.NT 11G50, 11E12, 11E39",
+    "summary": "Let $F$ be a quadratic form in $N \\geq 2$ variables defined on a vector space $V \\subseteq K^N$ over a global field $K$, and $\\Z \\subseteq K^N$ be a finite union of varieties defined by families of homogeneous polynomials over $K$. We show that if $V \\setminus \\Z$ contains a nontrivial zero of $F$, then there exists a linearly independent collection of small-height zeros of $F$ in $V\\setminus \\Z$, where the height bound does not depend on the height of $\\Z$, only on the degrees of its defining polynomials. As a corollary of this result, we show that there exists a small-height maximal totally isotropic subspace $W$ of the quadratic space $(V,F)$ such that $W$ is not contained in $\\Z$. Our investigation extends previous results on small zeros of quadratic forms, including Cassels' theorem and its various generalizations. The paper also contains an appendix with two variations of Siegel's lemma. All bounds on height are explicit.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Class numbers of ternary quadratic forms",
+    "url": "http://arxiv.org/abs/1304.5829v1",
+    "categories": "math.NT Primary 11E12, 11E20, 11E41",
+    "summary": "G.L. Watson \\cite{watson1, watson2} introduced a set of transformations, called Watson transformations by most recent authors, in his study of the arithmetic of integral quadratic forms. These transformations change an integral quadratic form to another integral quadratic form with a smaller discriminants, but preserve many arithmetic properties at the same time. In this paper, we study the change of class numbers of positive definite ternary integral quadratic formula along a sequence of Watson transformations, thus providing a new and effective way to compute the class number of positive definite ternary integral quadratic forms. Explicit class number formulae for many genera of positive definite ternary integral quadratic forms are derived as illustrations of our method.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Confined Plasmons in Graphene Microstructures: Experiments and Theory",
+    "url": "http://arxiv.org/abs/1302.5972v2",
+    "categories": "cond-mat.mes-hall",
+    "summary": "Graphene, a two-dimensional material with a high mobility and a tunable conductivity, is uniquely suited for plasmonics. The frequency dispersion of plasmons in bulk graphene has been studied both theoretically and experimentally, whereas no theoretical models have been reported and tested against experiments for confined plasmon modes in graphene microstructures. In this paper, we present experimental measurements as well as analytical and computational models for such confined modes. We compare experimental measurements with theory for plasmon modes in interacting arrays of graphene strips and demonstrate a good agreement. The comparison between experimental and theoretical results reveals the important role played by interaction among the plasmon modes of neighboring graphene structures.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "On the existence of quantum signature for quantum messages",
+    "url": "http://arxiv.org/abs/1302.4528v2",
+    "categories": "quant-ph",
+    "summary": "Quantum signature (QS) is used to authenticate the identity of the originator, ensure data integrity and provide non-repudiation service with unconditional security. Depending on whether a trusted third party named arbitrator is involved or not, QS is classified as arbitrated QS and true QS. This paper studies existence problem about the two kinds of QS and contributes to two points: 1) a basic framework is provided to analyze the possibility of arbitrated QS on signing quantum messages; 2) disagreement between the impossibility of true QS and an existing true QS scheme is solved.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Improved Measurement of Electron Antineutrino Disappearance at Daya Bay",
+    "url": "http://arxiv.org/abs/1210.6327v2",
+    "categories": "hep-ex nucl-ex",
+    "summary": "We report an improved measurement of the neutrino mixing angle $\\theta_{13}$ from the Daya Bay Reactor Neutrino Experiment. We exclude a zero value for $\\sin^22\\theta_{13}$ with a significance of 7.7 standard deviations. Electron antineutrinos from six reactors of 2.9 GW$_{\\rm th}$ were detected in six antineutrino detectors deployed in two near (flux-weighted baselines of 470 m and 576 m) and one far (1648 m) underground experimental halls. Using 139 days of data, 28909 (205308) electron antineutrino candidates were detected at the far hall (near halls). The ratio of the observed to the expected number of antineutrinos assuming no oscillations at the far hall is $0.944\\pm 0.007({\\rm stat.}) \\pm 0.003({\\rm syst.})$. An analysis of the relative rates in six detectors finds $\\sin^22\\theta_{13}=0.089\\pm 0.010({\\rm stat.})\\pm0.005({\\rm syst.})$ in a three-neutrino framework.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Representations of integral quadratic polynomials",
+    "url": "http://arxiv.org/abs/1208.6060v1",
+    "categories": "math.NT",
+    "summary": "In this paper, we study the representations of integral quadratic polynomials. Particularly, it is shown that there are only finitely many equivalence classes of positive ternary universal integral quadratic polynomials, and that there are only finitely many regular ternary triangular forms. A more general discussion of integral quadratic polynomials over a Dedekind domain inside a global field is also given.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Understanding the Interface Dipole of Copper Phthalocyanine (CuPc)/C60: Theory and Experiment",
+    "url": "http://arxiv.org/abs/1208.5291v1",
+    "categories": "cond-mat.mtrl-sci physics.chem-ph",
+    "summary": "Interface dipole determines the electronic energy alignment in donor/acceptor interfaces and plays an important role in organic photovoltaics. Here we present a study combining first principles density functional theory (DFT) with ultraviolet photoemission spectroscopy (UPS) and time-of-flight secondary ion mass spectrometry (TOF-SIMS) to investigate the interface dipole, energy level alignment, and structural properties at the interface between CuPc and C60. DFT finds a sizable interface dipole for the face-on orientation, in quantitative agreement with the UPS measurement, and rules out charge transfer as the origin of the interface dipole. Using TOF-SIMS we show that the interfacial morphology for the bilayer CuPc/C60 film is characterized by molecular intermixing, containing both the face-on and the edge-on orientation. The complementary experimental and theoretical results provide both insight into the origin of the interface dipole and direct evidence for the effect of interfacial morphology on the interface dipole.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Leveraging Subjective Human Annotation for Clustering Historic Newspaper Articles",
+    "url": "http://arxiv.org/abs/1208.3530v1",
+    "categories": "cs.IR cs.CL cs.DL",
+    "summary": "The New York Public Library is participating in the Chronicling America initiative to develop an online searchable database of historically significant newspaper articles. Microfilm copies of the newspapers are scanned and high resolution Optical Character Recognition (OCR) software is run on them. The text from the OCR provides a wealth of data and opinion for researchers and historians. However, categorization of articles provided by the OCR engine is rudimentary and a large number of the articles are labeled editorial without further grouping. Manually sorting articles into fine-grained categories is time consuming if not impossible given the size of the corpus. This paper studies techniques for automatic categorization of newspaper articles so as to enhance search and retrieval on the archive. We explore unsupervised (e.g. KMeans) and semi-supervised (e.g. constrained clustering) learning algorithms to develop article categorization schemes geared towards the needs of end-users. A pilot study was designed to understand whether there was unanimous agreement amongst patrons regarding how articles can be categorized. It was found that the task was very subjective and consequently automated algorithms that could deal with subjective labels were used. While the small scale pilot study was extremely helpful in designing machine learning algorithms, a much larger system needs to be developed to collect annotations from users of the archive. The \"BODHI\" system currently being developed is a step in that direction, allowing users to correct wrongly scanned OCR and providing keywords and tags for newspaper articles used frequently. On successful implementation of the beta version of this system, we hope that it can be integrated with existing software being developed for the Chronicling America project.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "On the security of arbitrated quantum signature schemes",
+    "url": "http://arxiv.org/abs/1205.3265v1",
+    "categories": "quant-ph",
+    "summary": "Due to potential capability of providing unconditional security, arbitrated quantum signature (AQS) schemes, whose implementation depends on the participation of a trusted third party, received intense attention in the past decade. Recently, some typical AQS schemes were cryptanalyzed and improved. In this paper, we analyze security property of some AQS schemes and show that all the previous AQS schemes, no matter original or improved, are still insecure in the sense that the messages and the corresponding signatures can be exchanged among different receivers, allowing the receivers to deny accepting the signature of an appointed message. Some further improvement methods on the AQS schemes are also discussed.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Observation of electron-antineutrino disappearance at Daya Bay",
+    "url": "http://arxiv.org/abs/1203.1669v2",
+    "categories": "hep-ex",
+    "summary": "The Daya Bay Reactor Neutrino Experiment has measured a non-zero value for the neutrino mixing angle $\\theta_{13}$ with a significance of 5.2 standard deviations. Antineutrinos from six 2.9 GW$_{\\rm th}$ reactors were detected in six antineutrino detectors deployed in two near (flux-weighted baseline 470 m and 576 m) and one far (1648 m) underground experimental halls. With a 43,000 ton-GW_{\\rm th}-day livetime exposure in 55 days, 10416 (80376) electron antineutrino candidates were detected at the far hall (near halls). The ratio of the observed to expected number of antineutrinos at the far hall is $R=0.940\\pm 0.011({\\rm stat}) \\pm 0.004({\\rm syst})$. A rate-only analysis finds $\\sin^22\\theta_{13}=0.092\\pm 0.016({\\rm stat})\\pm0.005({\\rm syst})$ in a three-neutrino framework.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Status of high temperature superconductor based magnets and the conductors they depend upon",
+    "url": "http://arxiv.org/abs/1108.1634v1",
+    "categories": "physics.acc-ph",
+    "summary": "This paper reviews the status of high temperature superconductors for high field magnets for future devices such as a high energy LHC or a muon collider. Some of the primary challenges faced for the implementation of systems are discussed. Two conductor technologies, Bi$_2$Sr$_2$CaCu$_2$O$_{8+x}$ and YBa$_2$Cu$_3$O$_{7-\\delta}$, have emerged as high field conductor options, but their relative advantages and disadvantages for high field magnets are quite different. These are reviewed from an engineering perspective, including coil manufacturing, electromechanical behaviour and quench behaviour. Lastly, the important roles of \"system pull\" upon conductor and magnet technology development, and of interactions between the materials and magnet communities for accelerating development, are discussed.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "On the impossibility of non-static quantum bit commitment between two parties",
+    "url": "http://arxiv.org/abs/1101.5684v1",
+    "categories": "cs.CR quant-ph",
+    "summary": "Recently, Choi \\emph{et al}. proposed an assumption on Mayers-Lo-Chau (MLC) no-go theorem that the state of the entire quantum system is invariable to both participants before the unveiling phase. This means that the theorem is only applicable to static quantum bit commitment (QBC). This paper find that the assumption is unnecessary and the MLC no-go theorem can be applied to not only static QBC, but also non-static one. A non-static QBC protocol proposed by Choi \\emph{et al.} is briefly reviewed and analyzed to work as a supporting example. In addition, a novel way to prove the impossibility of the two kinds of QBC is given.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Ternary Sums of Squares and Triangular Numbers",
+    "url": "http://arxiv.org/abs/1009.5402v4",
+    "categories": "math.NT",
+    "summary": "For any integer $x$, let $T_x$ denote the triangular number $\\frac{x(x+1)}{2}$. In this paper we give a complete characterization of all the triples of positive integers $(\\alpha, \\beta, \\gamma)$ for which the ternary sums $\\alpha x^2 +\\beta T_y + \\gamma T_z$ represent all but finitely many positive integers. This resolves a conjecture of Kane and Sun \\cite[Conjecture 1.19(i)]{KS08} and complete the characterization of all almost universal ternary mixed sums of squares and triangular numbers.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Epitaxial InGaAsP/InP photodiode for registration of InP scintillation",
+    "url": "http://arxiv.org/abs/1004.0531v1",
+    "categories": "cond-mat.mtrl-sci",
+    "summary": "Operation of semiconductor scintillators requires optically-tight integration of the photoreceiver system on the surface of the scintillator slab. We have implemented an efficient and fast quaternary InGaAsP pin photodiode, epitaxially grown upon the surface of an InP scintillator wafer and sensitive to InP luminescence. The diode is characterized by an extremely low room-temperature dark current, about 1 nA/cm2 at the reverse bias of 2 V. The low leakage makes possible a sensitive readout circuitry even though the diode has a large area (1 mm/times1 mm) and therefore large capacitance (50 pF). Results of electrical, optical and radiation testing of the diodes are presented. Detection of individual \\alpha-particles and \\gamma-photons is demonstrated.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Small zeros of hermitian forms over a quaternion algebra",
+    "url": "http://arxiv.org/abs/0911.4104v1",
+    "categories": "math.NT 11G50, 11E12, 11E39",
+    "summary": "Let $D$ be a positive definite quaternion algebra over a totally real number field $K$, $F(X,Y)$ a hermitian form in 2N variables over $D$, and $Z$ a right $D$-vector space which is isotropic with respect to $F$. We prove the existence of a small-height basis for $Z$ over $D$, such that $F(X,X)$ vanishes at each of the basis vectors. This constitutes a non-commutative analogue of a theorem of Vaaler, and presents an extension of the classical theorem of Cassels on small zeros of rational quadratic forms to the context of quaternion algebras.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Semi-quantum secret sharing using entangled states",
+    "url": "http://arxiv.org/abs/0906.1866v3",
+    "categories": "quant-ph",
+    "summary": "Secret sharing is a procedure for sharing a secret among a number of participants such that only the qualified subsets of participants have the ability to reconstruct the secret. Even in the presence of eavesdropping, secret sharing can be achieved when all the members are quantum. So what happens if not all the members are quantum? In this paper we propose two semi-quantum secret sharing protocols using maximally entangled GHZ-type states in which quantum Alice shares a secret with two classical parties, Bob and Charlie, in a way that both parties are sufficient to obtain the secret, but one of them cannot. The presented protocols are also showed to be secure against eavesdropping.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Multi-color Randomly Reinforced Urn for Adaptive Designs",
+    "url": "http://arxiv.org/abs/0812.3699v2",
+    "categories": "stat.ME math.PR math.ST stat.TH 62L05, 60F15",
+    "summary": "This paper is withdrawn",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Immigrated urn models - asymptotic properties and applications",
+    "url": "http://arxiv.org/abs/0812.3698v2",
+    "categories": "math.ST math.PR stat.ME stat.TH 60F15, 62L05",
+    "summary": "Urn models have been widely studied and applied in both scientific and social science disciplines. In clinical studies, the adoption of urn models in treatment allocation schemes has been proved to be beneficial to both researchers, by providing more efficient clinical trials, and patients, by increasing the likelihood of receiving the better treatment. In this paper, we propose a new and general class of immigrated urn (IMU) models that incorporates the immigration mechanism into the urn process. Theoretical properties are developed and the advantages of the IMU models are discussed. In general, the IMU models have smaller variabilities than the classical urn models, yielding more powerful statistical inferences in applications. Illustrative examples are presented to demonstrate the wide applicability of the IMU models. The proposed IMU framework, including many popular classical urn models, not only offers a unify perspective for us to comprehend the urn process, but also enables us to generate several novel urn models with desirable properties.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Sharing a quantum secret without a trusted party",
+    "url": "http://arxiv.org/abs/0810.3446v4",
+    "categories": "quant-ph",
+    "summary": "In a conventional quantum (k,n) threshold scheme, a trusted party shares a secret quantum state with n participants such that any k of those participants can cooperate to recover the original secret, while fewer than k participants obtain no information about the secret. In this paper we show how to construct a quantum (k,n) threshold scheme without the assistance of a trusted party, who generates and distributes shares among the participants. Instead, each participant chooses his private state and contributes the same to the determination of the final secret quantum state.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Entanglement and quantum phase transition in the asymmetric Hubbard chain: density-matrix renormalization group calculations",
+    "url": "http://arxiv.org/abs/0805.2021v1",
+    "categories": "cond-mat.str-el cond-mat.other",
+    "summary": "We study the ground state quantum phase transition by means of entanglement in the one-dimensional asymmetric Hubbard model with open boundary condition. The local entanglement between the middle two sites and the rest of the system, and the block entanglement between the left and right portions of the system, are calculated using the density-matrix renormalization group (DMRG) method. We find that the entanglement shows interesting scaling and singular behavior around the phase transition line.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Effects of environmental parameters to total, quantum and classical correlations",
+    "url": "http://arxiv.org/abs/quant-ph/0612223v1",
+    "categories": "quant-ph",
+    "summary": "We quantify the total, quantum, and classical correlations with entropic measures, and quantitatively compare these correlations in a quantum system, as exemplified by a Heisenberg dimer which is subjected to the change of environmental parameters: temperature and nonuniform external field. Our results show that the quantum correlation may exceed the classical correlation at some nonzero temperatures, though the former is rather fragile than the later under thermal fluctuation. The effect of the external field to the classical correlation is quite different from the quantum correlation.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Asymptotic Properties of Covariate-Adjusted Adaptive Designs",
+    "url": "http://arxiv.org/abs/math/0610518v1",
+    "categories": "math.ST math.PR stat.ME stat.TH 60F15; 62G10; 60G10; 60F05",
+    "summary": "Response-adaptive designs have been extensively studied and used in clinical trials. However, there is a lack of a comprehensive study of response-adaptive designs that include covariates, despite their importance in clinical experiments. Because the allocation scheme and the estimation of parameters are affected by both the responses and the covariates, covariate-adjusted response-adaptive (CARA) designs are very complex to formulate. In this paper, we overcome the technical hurdles and lay out a framework for general CARA designs for the allocation of subjects to $K (\\geq 2)$ treatments. The asymptotic properties are studied under certain widely satisfied conditions. The proposed CARA designs can be applied to generalized linear models. Two important special cases, the linear model and the logistic regression model, are considered in detail.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  },
+  {
+    "title": "Influence of step-edge barriers on the morphological relaxation of nanoscale ripples on crystal surfaces",
+    "url": "http://arxiv.org/abs/cond-mat/0404693v1",
+    "categories": "cond-mat.mtrl-sci",
+    "summary": "We show that the decay of sinusoidal ripples on crystal surfaces, where mass transport is limited by the attachment and detachment of atoms at the step-edges, is remarkably different from the decay behavior that has been reported until now. Unlike the decreasing or at most constant rate of amplitude decay of sinusoidal profiles observed in earlier work, we find that the decay rate increases with decreasing amplitude in this kinetic regime. The rate of shape invariant amplitude relaxation is shown to be inversely proportional to both the square of the wavelength and the current amplitude. We have also carried out numerical simulations of the relaxation of realistic sputter ripples.",
+    "createdAt": "2021-03-25T13:03:13.685Z",
+    "updatedAt": "2021-03-25T13:03:13.685Z"
+  }
+]
