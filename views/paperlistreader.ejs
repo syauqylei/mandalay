@@ -25,24 +25,33 @@
             <th scope="col">Title</th>
             <th scope="col">Url</th>
             <th scope="col">Summary</th>
-            <th scope="col">add</th>
+            <th scope="col">Status</th>
           </tr>
         </thead>
         <tbody>
           <% for (let item of data ) { %>
           <tr>
-            <td> <%= item.title %> </td>
-            <td> <a href="<%= item.url %>"> link </a> </td>
-            <td> <%= item.summary %> </td>
-            <td> <a href="/readers/<%=userData.id%>/addpaper/<%=item.id%>"> add </a> </td>
+            <td> <%= item.Paper.title %> </td>
+            <td> <a href="<%= item.Paper.url %>"> link </a> </td>
+            <td> <%= item.Paper.summary %> </td>
+            <td> <%= item.status %> <br>
+              <form method="post"><select name="status" id="status">
+                <option value=""></option>
+                <option value=`${item.id},read`>read</option>
+                <option value=`${item.id},ongoing`>ongoing</option>
+              </select>
+              <button type="submit" name="button">ok</button>
+            </form>
+
+            </td>
           </tr>
           <% } %>
         </tbody>
       </table>
-      
+
 </div>
 
 </div>
-      
+
 </body>
 </html>

@@ -1,20 +1,26 @@
 const { Readers } =  require('../models');
+const bcrypt = require('bcrypt')
 
 const userChecking = (req,res,next) => {
   const uname = req.body.username;
   const pswd = req.body.password;
   Readers.findAll({
     where: {
-      username : uname,
-      password : pswd
+      username : uname
     }
   }).
     then( data => {
-      console.log(data);
-      [ req.session.user ] = data;
-      next()
+      if (data.length > 0 && bcrypt.compareSync(pswd,data[0].password)) {
+        [req.session.user ] = data;
+        next()
+      } else {
+        req.session.loginFailed = true;
+        req.session.loginFailedMsg = 'Username or password is not correct';
+        next()
+
+      }
     }).
-    catch( err => { 
+    catch( err => {
      req.session.loginFailed = true;
      req.session.loginErr = err;
     });

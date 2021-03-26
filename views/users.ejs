@@ -23,20 +23,23 @@
     <table class="table">
         <thead>
           <tr>
-            <th scope="col">No</th>
             <th scope="col">Name</th>
-            <th scope="col">User Name</th>
-            <th scope="col">Email</th>
-            <th scope="col">Password</th>
+            <th scope="col">Read</th>
+            <th scope="col">Ongoing</th>
+            <th scope="col">Plan to read</th>
+            <th scope="col"></th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <th scope="row">1</th>
-            <td>Mark</td>
-            <td>Otto</td>
-            <td>ottogalileo@email.co.id</td>
-            <td>f2tmkdir</td>
+            <td><%=data.first_name%>%></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>
+              <a href="/readers/<%=item.id%>/paperslist"> See list papers</a>
+            </td>
+          </tr>
         </tbody>
       </table>
       

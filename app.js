@@ -1,6 +1,7 @@
 const express = require('express');
 const session = require('express-session');
 const userChecking = require('./helpers/userChecking.js');
+const router = require('./routes');
 const app = express();
 const port = 3000;
 
@@ -11,23 +12,6 @@ app.use(session({
   resave: false,
   saveUninitialized: true,
 }));
-
-app.get('/', (req, res) => {
-  res.render('home')
-})
-app.post('/', userChecking, (req, res) => {
-  console.log(req.session);
-})
-
-app.get('/readers/:username', (req,res) => {
-  const userData  = req.session.user;
-  res.render('users',{userData});
-})
-
-app.get('/readers/:username/logout', (req,res) => {
-  req.session.destroy();
-  res.redirect('/');
-})
 
 app.use('/',router)
 

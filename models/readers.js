@@ -14,6 +14,11 @@ module.exports = (sequelize, DataTypes) => {
       Readers.belongsToMany(models.Papers, {through: 'ReaderPapers',
                                              foreignKey: 'ReadersId' } );
     }
+
+    fullName() {
+      return this.first_name + ' '+ this.last_name;
+    }
+
   };
   Readers.init({
     first_name: DataTypes.STRING,

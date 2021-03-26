@@ -1,9 +1,10 @@
 'use strict';
 const fs = require('fs');
-
+const hash = require('../helpers/hash.js')
 const readers = JSON.parse(fs.readFileSync('./data/readers.json','utf8'));
 
 for (let item of readers) {
+  item.password = hash(item.password)
   item.createdAt = new Date();
   item.updatedAt = new Date();
 }

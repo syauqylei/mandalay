@@ -7,8 +7,9 @@
 <body>
 
     <div style="color: aliceblue;"></div>
-<!-- Sidebar -->
-<%- include('./userNav.ejs'); %>
+
+<%- include('./userNav.ejs') %>
+
 <div style="margin-left:25%">
 
 <div class="w3-container w3-teal"><br>
@@ -18,31 +19,33 @@
 
 
 <div class="w3-container"><br>
-    <h3>Papers</h3><br>
+    <h3>Users</h3><br>
     <table class="table">
         <thead>
           <tr>
-            <th scope="col">Title</th>
-            <th scope="col">Url</th>
-            <th scope="col">Summary</th>
-            <th scope="col">add</th>
+            <th scope="col">Name</th>
+            <th scope="col">Read</th>
+            <th scope="col">Ongoing</th>
+            <th scope="col">Plan to read</th>
+            <th scope="col"></th>
           </tr>
         </thead>
         <tbody>
           <% for (let item of data ) { %>
           <tr>
-            <td> <%= item.title %> </td>
-            <td> <a href="<%= item.url %>"> link </a> </td>
-            <td> <%= item.summary %> </td>
-            <td> <a href="/readers/<%=userData.id%>/addpaper/<%=item.id%>"> add </a> </td>
+            <td> <%= item.fullName() %> </td>
+            <td> <%= item.fullName() %> </td>
+            <td> <%= item.fullName() %> </td>
+            <td> <%= item.fullName() %> </td>
+            <td> <a href="/readers/<%=item.id%>/paperslist"> See list </a></td>
           </tr>
           <% } %>
         </tbody>
       </table>
-      
+
 </div>
 
 </div>
-      
+
 </body>
 </html>
